@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_title" for="node" attr.name="title" attr.type="string"/>
+  <key id="v_subtitle" for="node" attr.name="subtitle" attr.type="string"/>
+  <key id="v_publication_date" for="node" attr.name="publication_date" attr.type="string"/>
+  <key id="v_content" for="node" attr.name="content" attr.type="string"/>
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="double"/>
+  <key id="v_size" for="node" attr.name="size" attr.type="double"/>
+  <key id="v_color" for="node" attr.name="color" attr.type="string"/>
+  <key id="e_arrow_size" for="edge" attr.name="arrow_size" attr.type="double"/>
+  <key id="e_arrow_width" for="edge" attr.name="arrow_width" attr.type="double"/>
+  <key id="e_color" for="edge" attr.name="color" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_id">1</data>
+      <data key="v_title">A estratégia dos EUA no Oriente Médio: pressionar Israel, enfraquecer o Hezbollah e eleger novo presidente libanês</data>
+      <data key="v_subtitle">Os Estados Unidos pressionam por um lado, mas, por outro, consideram que há uma &quot;oportunidade&quot; para mudar a situação interna no Líbano.</data>
+      <data key="v_publication_date"> 15/10/2024 03h00 </data>
+      <data key="v_content"> Depois de ameaçar Israel de novos ataques se a ofensiva no Líbano continuasse, o Hezbollah efetuou novos disparos contra uma base militar israelense ao norte de Tel Aviv, nesta segunda-feira (14).  
+ Mesmo reafirmando apoio à causa israelense, os Estados Unidos possuem atualmente uma estratégia mais complexa para a região, com uma tríplice ramificação: pressionar o parceiro em sua ofensiva, sem abrir mão de fragilizar o movimento xiita pró-Irã, além de eleger um novo presidente no Líbano. 
+ Na medida em que a incursão terrestre de Israel no Líbano prossegue, as forças israelenses avançam para uma área três quilômetros acima da fronteira.  
+ Os EUA pedem ao aliado que busque encerrar as operações o quanto antes. No entanto, a cada dia que passa, novos episódios aumentam as críticas internacionais sobre Israel.  
+ No domingo (13), o Hezbollah matou quatro soldados israelenses e deixou 60 feridos, em um ataque com drone contra uma base militar israelense ao sul de Haifa. O chefe do Estado-Maior israelense, Herzi Halevi, admitiu um ataque “doloroso”, o mais letal desde o início dessa nova frente de guerra em setembro.  
+ Apoiado pelo Irã e solidário ao Hamas, na Faixa de Gaza, o Hezbollah disse que era apenas uma prévia do que poderá acontecer caso Israel continue a atacar o povo libanês.  
+ O secretário de Defesa dos Estados Unidos, Lloyd Austin, disse ao ministro da Defesa de Israel, Yoav Gallant, que a incursão terrestre no Líbano deve ser encerrada o quanto antes. Desta forma, segundo Austin, as soluções devem ser obtidas pelas vias diplomáticas. 
+ O secretário de imprensa do Pentágono, major-general Pat Ryder, declarou que Austin reafirmou que o compromisso dos EUA com a segurança de Israel é &quot;inabalável e duradouro&quot;.  
+ Quem também se manifestou sobre a possibilidade de uma solução diplomática no norte de Israel e sul do Líbano foi o chefe do Mossad, o serviço secreto israelense, David Barnea. Para ele, qualquer cessar-fogo com o Hezbollah deve incluir também um acordo para a libertação dos reféns mantidos em cativeiro pelo Hamas. 
+ Essa é uma nova tese que deve avançar nos próximos dias: a vinculação por parte de Israel dessas duas arenas sob a perspectiva de uma solução para um acordo que resulte na libertação dos reféns pelo Hamas.  
+ Os Estados Unidos pressionam por um lado, mas, por outro, consideram que há uma &quot;oportunidade&quot; para mudar a situação interna no Líbano.  
+ Os EUA entendem que este é o momento de solucionar a crise política no Líbano e o caminho seria o enfraquecimento do Hezbollah. Segundo o Wall Street Journal, os EUA contam com o apoio da Arábia Saudita para seguir com o plano. 
+
+Líbano “sequestrado pelo Hezbollah”: a estratégia de Netanyahu e dos EUA
+
+ Por outro lado, Egito e Catar alertam sobre a possibilidade de uma guerra civil no país e a dificuldade de obter legitimidade interna para essa estratégia, uma vez que a iniciativa tem a aprovação de Israel. 
+ Nos últimos dias, o primeiro-ministro Benjamin Netanyahu gravou um discurso em inglês incentivando os libaneses a retomarem o país. Netanyahu disse que o Líbano foi “sequestrado pelo Hezbollah”. 
+ Os países da região temem que a promoção de um candidato ao cargo de presidente possa reacender a guerra dentro do Líbano. Anos de esforços com o apoio dos EUA para impor reformas no sistema de governo produziram apenas pequenas alterações. 
+ Autoridades norte-americanas e de países árabes confirmaram a visão do governo dos EUA. Por um lado, portanto, há um apelo público por parte de Washington para um acordo rápido que seja capaz de encerrar a guerra. Por outro, a série de ataques israelenses que incluem a eliminação da cadeia de comando do Hezbollah é considerada uma oportunidade para enfraquecer decisivamente a milícia xiita libanesa e sua influência no país. 
+
+EUA conversa com países árabes para tentar eleger novo presidente libanês
+
+ O secretário de Estado dos EUA, Antony Blinken, manteve conversas com lideranças dos três países (Arábia Saudita, Catar e Egito) e pediu apoio à eleição de um novo presidente no Líbano, que atravessa uma longa crise política anterior à guerra atual. 
+ Amos Hochstein, o enviado especial do presidente Joe Biden para a região, disse às autoridades árabes que o enfraquecimento do Hezbollah deveria ser visto como uma oportunidade para encerrar o impasse político libanês. 
+ O Parlamento do país tentou 13 vezes – e falhou em todas – chegar a um acordo para a eleição de um presidente desde o fim do mandato de Michel Aoun, em 31 de outubro de 2022. 
+ Enquanto isso, Israel entrou em confronto com as tropas da ONU e agora pediu, explicitamente, para que os soldados das forças das Nações Unidas deixarem o sul do Líbano. 
+ Tropas de Israel em confronto com o Hezbollah no sul do Líbano atingiram também soldados das Forças de Paz da ONU, a Unifil. Ao menos três soldados das Nações Unidas ficaram feridos.  
+ O episódio levou Israel a receber forte condenação de mais de 40 países, que cederam soldados para as tropas.  
+ Israel demorou a responder, embora tenha dito que iria realizar uma investigação. A demora ocorreu também porque o episódio aconteceu durante o Yom Kippur, o dia do perdão, o feriado mais sagrado do calendário judaico.  
+ Posteriormente, o ministro da Defesa de Israel, Yoav Gallant, conversou com o seu homólogo norte-americano, o secretário de Defesa Lloyd Austin, que expressou “profunda preocupação com os relatos de que as forças israelenses dispararam contra tropas da Unifil”.  
+ Gallant respondeu que “o Hezbollah opera e atira nas proximidades de posições da Unifil, usando missões de manutenção da paz como cobertura para suas atividades terroristas”. Ele também afirmou que o Exército vai continuar a tomar medidas para evitar danos às forças da ONU. 
+
+&quot;Escudo humano&quot;
+
+ No domingo, o primeiro-ministro de Israel, Benjamin Netanyahu, gravou um pronunciamento em que se dirigiu ao secretário-geral da ONU, António Guterres. No discurso, Netanyahu pede a retirada das forças da ONU da zona de combate. 
+
+&quot;Chegou a hora de vocês removerem a Unifil das áreas de combate do Hezbollah. As forças israelenses pediram isso repetidamente, e receberam repetidas recusas; todas com o objetivo de fornecer um escudo humano aos terroristas do Hezbollah. A sua recusa em retirar os soldados da Unifil os torna reféns do Hezbollah&quot;, disse o premiê. 
+
+ Em outro episódio no Líbano, dois tanques de Israel entraram numa base da Unifil às 4h30 da manhã e exigiram que as luzes fossem apagadas. Os israelenses deixaram o local após 45 minutos. 
+ Duas horas depois, bombas de gás caíram a cerca de 100 metros da base, liberando fumaça que causou irritação na pele e reações gastrointestinais em 15 soldados da ONU. 
+ Mais tarde, a imprensa de Israel citou um oficial do país que classificou os episódios como &quot;erros que estão sob investigação&quot;. Segundo este oficial, não há qualquer ordem dada ao Exército para pressionar a Unifil a abandonar as áreas de combate no sul do Líbano recorrendo à força militar ou ameaças. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/15/a-estrategia-dos-eua-no-oriente-medio-pressionar-israel-enfraquecer-o-hezbollah-e-eleger-novo-presidente-libanes.ghtml</data>
+      <data key="v_label">0</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n1">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel ataca região de maioria cristã no norte do Líbano pela primeira vez e deixa 21 mortos</data>
+      <data key="v_subtitle">O Hezbollah também fez uma série de bombardeios nesta segunda-feira (14), um dia após ataque com drones matar 4 soldados e ferir mais de 60 pessoas no norte do território israelense. Comandante do grupo extremista foi morto, de acordo com Israel.</data>
+      <data key="v_publication_date"> 14/10/2024 08h39 </data>
+      <data key="v_content"> Israel bombardeou a região de Aitou, um reduto de maioria cristã no norte do Líbano, nesta segunda-feira (14). Foi a primeira vez que as Forças Armadas israelenses alvejaram a região desde o início da guerra. 
+ Segundo a Cruz Vermelha libanesa, 21 pessoas foram mortas no ataque, e quatro ficaram feridas. 
+
+
+ O ataque atingiu uma casa que havia sido alugada para famílias desalojadas, disse o prefeito de Aitou, Joseph Trad, à agência de notícias Reuters. 
+ Nesta segunda, a Embaixada dos Estados Unidos no Líbano voltou a &quot;encorajar fortemente&quot; que seus cidadãos deixem o país &quot;agora&quot;, acrescentando que os voos que a embaixada organizou para tirá-los de Beirute não vão continuar indefinidamente. 
+ Em um comunicado, as Forças de Defesa de Israel anunciaram, também nesta segunda, que mataram mais um comandante do Hezbollah: Muhammad Kamel Naeem, da Unidade de Mísseis Antitanque das Forças Radwan do Hezbollah. 
+
+&quot;Muhammad Kamel Naeem foi responsável por planejar e executar vários ataques terroristas, incluindo ataques de mísseis antitanque contra civis israelenses&quot;, afirma mensagem.
+
+ Nas últimas horas, o grupo extremista libanês fez vários lançamentos de mísseis contra o território israelense. No entanto, segundo o comunicado, alguns foram interceptados e os outros caíram em áreas abertas, sem deixar feridos: 
+ &quot;O Hezbollah disparou vários foguetes no centro e norte de Israel. Alguns dos foguetes foram interceptados e o restante caiu em áreas abertas. Nenhum ferimento foi relatado. A IAF rapidamente atingiu os lançadores do Hezbollah usados ​​para disparar os foguetes do sul do Líbano&quot;. 
+ No Telegram, o Hezbollah divulgou imagens dos estragos causados pela queda de um desses mísseis na cidade de Karmiel, na região norte do país. 
+ Por volta das 9h, horário de Brasília, o Hezbollah também anunciou &quot;confrontos violentos&quot; com as tropas israelenses na cidade de Aita al-Shaab, &quot;utilizando vários tipos de armas, incluindo metralhadoras, foguetes e projéteis de artilharia&quot;. 
+ No começo da tarde, devido ao lançamento simultâneo de vários mísseis do Hezbollah, sirenes foram acionadas em várias regiões de Israel e vídeos postados nas redes sociais mostraram, por exemplo, motoristas que se protegiam perto da mureta que divide uma rodovia. 
+
+Ataque com maior número de vítimas israelenses até agora
+
+ Quatro soldados israelenses morreram e mais de 60 pessoas ficaram feridas neste domingo (13) no norte de Israel, onde o grupo extremista Hezbollah reivindicou a autoria de um bombardeio com drones, indicou um serviço de resgate israelense. 
+ De acordo com o grupo, a ação foi uma resposta aos ataques israelenses realizados na última quinta-feira (10) no sul do Líbano e em Beirute. 
+ Em comunicado, o gabinete do ministro da Defesa de Israel, Yoav Gallant, revelou que ele conversou com o ministro da Defesa americano Lloyd Austin durante a madrugada desta segunda, &quot;destacou a seriedade do ataque e a resposta forte que será dada ao Hezbollah&quot; e informou que Israel responderá de maneira veemente ao ataque. 
+ Esse foi o segundo ataque com drone na região em dois dias. No sábado, um drone atingiu um subúrbio de Tel Aviv, causando danos, mas sem deixar feridos. 
+ O ataque deste domingo também coincidiu com o anúncio dos Estados Unidos sobre o envio de um novo sistema de defesa aérea para reforçar a proteção de Israel contra mísseis, o THAAD, altamente eficaz contra ameaças de curto e médio alcance. Embora seja utilizado para a defesa terrestre, o sistema também pode atingir alvos fora da atmosfera. 
+
+Tensão após soldados da ONU serem feridos
+
+ Todas essas operações acontecem em meio a altas tensões entre Israel e a força de paz da ONU, UNIFIL, no sul do Líbano. 
+ A ONU disse que tanques israelenses invadiram sua base no domingo, nas últimas alegações de violações israelenses contra forças de paz, que foram condenadas pelo Hezbollah e pelos aliados de Israel. 
+ Israel contestou o relato da ONU e Netanyahu pediu que as forças de paz se retirassem, dizendo que elas estavam fornecendo &quot;escudos humanos&quot; para o Hezbollah durante uma intensificação das hostilidades. 
+ Nesta segunda, o ministro israelense de Energia, Eli Cohen, repetiu um apelo do primeiro-ministro israelense, Benjamin Netanyahu, para que as tropas da ONU saiam do país. 
+ O Hezbollah nega que use a proximidade de forças de paz para proteção. 
+ LEIA TAMBÉM: 
+
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/14/ataque-de-israel-atinge-regiao-de-maioria-crista-no-norte-do-libano-pela-primeira-vez.ghtml</data>
+      <data key="v_label">1</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n2">
+      <data key="v_id">1</data>
+      <data key="v_title">Quatro soldados israelenses morrem e mais de 60 pessoas ficam feridas em ataque do Hezbollah com drones no norte de Israel</data>
+      <data key="v_subtitle">Ataque aconteceu na região de Binyamina, no norte de Israel, onde o movimento libanês Hezbollah reivindicou a autoria de um bombardeio com drones, indicou um serviço de resgate israelense.</data>
+      <data key="v_publication_date"> 13/10/2024 17h10 </data>
+      <data key="v_content"> Quatro soldados israelenses morreram e mais de 60 pessoas ficaram feridas neste domingo (13) no norte de Israel, onde o grupo extremista Hezbollah reivindicou a autoria de um bombardeio com drones, indicou um serviço de resgate israelense. 
+ Segundo o United Hatzalah, uma organização de socorristas voluntários, equipes médicas &quot;estão atendendo mais de 60 feridos com diferentes graus de lesão&quot; na região de Binyamina. 
+ Até o momento, não se sabe se as vítimas são civis ou militares. O Hezbollah afirmou que o alvo do ataque foi um campo de treinamento da Brigada Golani das Forças de Defesa de Israel (IDF, na sigla em inglês), localizado entre Tel Aviv e a cidade de Haifa. 
+ De acordo com o grupo, a ação foi uma resposta aos ataques israelenses realizados na última quinta-feira (10) no sul do Líbano e em Beirute. 
+ Esse é o segundo ataque com drone na região em dois dias. No sábado, um drone atingiu um subúrbio de Tel Aviv, causando danos, mas sem deixar feridos. 
+ O ataque deste domingo também coincidiu com o anúncio dos Estados Unidos sobre o envio de um novo sistema de defesa aérea para reforçar a proteção de Israel contra mísseis, o THAAD. 
+ Ele é altamente eficaz contra ameaças de curto e médio alcance. Embora seja utilizado para a defesa terrestre, o sistema também pode atingir alvos fora da atmosfera. 
+ O sistema será operado pelos militares americanos na defesa do país aliado contra eventuais ataques do Irã. 
+ O secretário de Defesa, Lloyd Austin, &quot;autorizou o envio de uma bateria de defesa de grande altitude [THAAD] e de uma equipe de militares americanos a Israel, que ajudarão a reforçar as defesas aéreas do país após os ataques sem precedentes do Irã&quot;, disse o porta-voz do Pentágono, o general Pat Ryder. 
+ LEIA TAMBÉM: 
+
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/ataque-drones-norte-de-israel.ghtml</data>
+      <data key="v_label">2</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n3">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel rejeita proposta de EUA e França de cessar-fogo com Hezbollah; bombardeios matam 23 sírios no Líbano</data>
+      <data key="v_subtitle">Benjamin Netanyahu disse que não respondeu proposta de trégua de 21 dias; chanceler confirmou que a ideia foi descartada. Número de mortos já havia passado de 620 desde o início dos bombardeios aéreos.</data>
+      <data key="v_publication_date"> 26/09/2024 04h26 </data>
+      <data key="v_content"> Autoridades do governo de Israel anunciaram nesta quinta-feira (26) que rejeitaram a proposta de cessar-fogo com o Hezbollah feita por Estados Unidos e França. 
+ O ministro israelense das Relações Exteriores, Israel Katz, afirmou que não haverá um cessar-fogo com o grupo extremista libanês Hezbollah. 
+
+
+
+&quot;Não haverá cessar-fogo no norte [de Israel]. Nós vamos continuar lutando contra a organização terrorista Hezbollah com toda a nossa força até a vitória e o retorno seguro dos moradores do norte para suas casas&quot;, escreveu Katz na rede social X.
+
+ Mais cedo, o primeiro-ministro de Israel, Benjamin Netanyahu, disse que não havia respondido à proposta das potências ocidentais. Ao chegar aos EUA, onde vai discursar na Assembleia Geral das Nações Unidas, ele reafirmou que Israel continuará a atacar o Hezbollah em território libanês com &quot;força total&quot; até que os residentes no norte do país possam regressar às suas casas em segurança. 
+
+A ideia aventada por EUA e França era uma trégua de 21 dias para que houvesse tempo de tentar estancar a escalada do conflito por vias diplomáticas.
+
+ As Forças de Defesa de Israel informaram nesta quinta que realizaram um exercício de treinamento de invasão por terra perto da fronteira com o Líbano. &quot;Durante o exercício, as tropas aprimoraram a sua prontidão operacional e logística para vários cenários de combate em território inimigo na frente norte&quot;, diz um comunicado dos militares. 
+ Israel também afirmou que o chefe do comando aéreo do Hezbollah, Muhammad Hussein Srour, foi morto durante ataques conduzidos no sul da capital libanesa, Beirute. 
+
+23 mortos em bombardeio na madrugada
+
+ Ataques aéreos feitos pelas Forças Armadas de Israel mataram ao menos 23 sírios em um edifício da cidade libanesa de Younine, informou a agência Reuters. Os bombardeiros foram na madrugada desta quinta-feira (26), pelo horário de Brasília, e também atingiram cerca de 75 alvos do Hezbollah no Líbano. 
+ Segundo o prefeito da cidade, Ali Qusas, que foi ouvido pela agência, a maioria das vítimas eram mulheres e crianças. Elas estavam em um edifício de três andares. Além disso, oito pessoas ficaram feridas. 
+ Segundo as Forças Armadas de Israel, instalações de armazenamento de armas e mísseis prontos para uso na região de Bekaa estão entre os locais bombardeados durante os ataques. 
+ Na quarta-feira (25), o Ministério da Saúde do Líbano confirmou que os ataques israelenses resultaram em 72 mortos e 392 feridos. Desde o início dos bombardeios aéreos, na segunda-feira, até quarta, as autoridades libanesas afirmam que mais de 620 pessoas morreram. 
+ LEIA TAMBÉM: 
+
+
+
+Premiê exige cessar-fogo
+
+ O primeiro-ministro do Líbano, Najib Mikati, afirmou que Israel está matando civis por meio de bombardeios contra o território libanês. O premiê discursou na quarta durante a reunião do Conselho de Segurança da ONU para discutir a crise no Oriente Médio. Mikati pediu um cessar-fogo imediato. 
+ Ele afirmou que, enquanto Israel diz estar atacando apenas estruturas do Hezbollah, os hospitais libaneses estão sobrecarregados com civis feridos, incluindo mulheres. 
+
+&quot;Os libaneses rejeitam a guerra e acreditam na estabilidade. Israel nunca parou de violar as resoluções adotadas pela ONU. O Líbano não está pedindo por caridade&quot;, afirmou.
+
+
+Israel não quer &apos;guerra total&apos;
+
+ Na sequência, o enviado de Israel nas Nações Unidas, Danny Danon, disse que o país está exercendo o direito de se defender. Danon lembrou que o Hezbollah está disparando mísseis e foguetes contra cidades israelenses. 
+ O representante de Israel também garantiu que as Forças de Defesa de Israel estão executando ataques com &quot;precisão&quot; contra alvos do Hezbollah. &quot;Israel não quer uma guerra total&quot;, afirmou. 
+ Danon ainda acusou o Irã de ser a &quot;aranha no centro da teia de violência&quot; no Oriente Médio. Para o israelense, não haverá paz na região até que &quot;a ameaça seja desfeita&quot;. O Irã apoia o Hezbollah. 
+ O primeiro-ministro de Israel, Benjamin Netanyahu, deve chegar aos Estados Unidos nesta quinta. No dia seguinte, ele deve discursar na Assembleia Geral da ONU, em Nova York. 
+
+Israel x Hezbollah
+
+ Israel afirmou que está conduzindo uma operação militar na fronteira com o Líbano para que moradores da região possam voltar para casa. Esses israelenses deixaram a área por causa de ataques do grupo extremista Hezbollah, que atua no Líbano. 
+ Hezbollah e Israel possuem um histórico de desavenças, que já resultou em uma guerra em 2006. O conflito na região voltou a se intensificar em outubro de 2023. À época, o grupo terrorista Hamas invadiu Israel, o que resultou na morte e sequestro de civis. 
+ Em resposta, Israel declarou guerra contra o Hamas e bombardeou a Faixa de Gaza. Desde então, o Hezbollah vem lançando foguetes contra Israel para demonstrar apoio ao Hamas e aos moradores de Gaza. 
+ Na semana passada, pagers e walkie-talkies usados por membros do Hezbollah explodiram em uma ação coordenada. Em seguida, Israel anunciou que estava movendo tropas para a região de fronteira com o Líbano. 
+ Israel também lançou uma série de bombardeios contra o Líbano, justificando que estava atacando estruturas do Hezbollah. 
+ Diante disso, a ONU levantou preocupações sobre uma guerra total no Oriente Médio. 
+ &quot;O Líbano está à beira do precipício. O povo do Líbano, o povo de Israel e o povo do mundo não podem permitir que o Líbano se torne outra Gaza&quot;, disse o Secretário-Geral da ONU, António Guterres. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/26/bombardeios-israelenses-alvos-hezbollah-libano.ghtml</data>
+      <data key="v_label">3</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n4">
+      <data key="v_id">1</data>
+      <data key="v_title">Netanyahu faz ameaças ao regime do Irã: &apos;Não há lugar no Oriente Médio que Israel não possa alcançar&apos;</data>
+      <data key="v_subtitle">Em mensagem em inglês, o primeiro-ministro de Israel disse estar se dirigindo aos cidadãos iranianos: &apos;Quando o Irã finalmente for livre - e esse momento chegará muito mais rápido do que as pessoas pensam - tudo será diferente&apos;.</data>
+      <data key="v_publication_date"> 30/09/2024 11h20 </data>
+      <data key="v_content"> O primeiro-ministro de Israel, Benjamin Netanyahu, fez ameaças ao regime do Irã em uma mensagem gravada nesta segunda-feira (30). 
+ Segundo o site Ynet, do jornal israelense &quot;Yedioth Ahronoth&quot;, em inglês, Netanyahu se dirigiu diretamente aos cidadãos iranianos e acusou o regime de gastar dinheiro com guerras em vez de melhorar a vida no país. 
+
+
+
+&quot;Todos os dias, vocês veem um regime que os oprime, fazendo discursos inflamados sobre a defesa do Líbano, a defesa de Gaza. Mas todos os dias, esse mesmo regime afunda nossa região cada vez mais na escuridão e na guerra. (...) Não há lugar no Oriente Médio que Israel não possa alcançar. Não há lugar que não iremos para proteger nosso povo e nosso país. A cada momento que passa, o regime os aproxima - o nobre povo persa - cada vez mais do abismo. A esmagadora maioria dos iranianos sabe que seu regime não se importa com eles. Se se importasse, se se importasse com vocês, pararia de gastar bilhões de dólares em guerras inúteis em todo o Oriente Médio. Começaria a melhorar suas vidas&quot;, acusou o premiê israelense.
+
+ Em guerra contra o Hamas em Gaza há um ano e, agora, em conflito direto com o Hezbollah no Líbano, Netanyahu falou em um Irã livre: 
+
+&quot;Quando o Irã finalmente for livre, e esse momento chegará muito mais rápido do que as pessoas pensam - tudo será diferente. Nossos dois antigos povos, o povo judeu e o povo persa, finalmente estarão em paz&quot;.
+
+ Ainda de acordo com o Ynet, nesta segunda, o Shin Bet, a Agência de Segurança e Inteligência de Israel, alertou para ameaças vindas do regime iraniano. 
+ Em comunicado, a agência revelou que, nas últimas semanas, houve um aumento significativo nos esforços do Irã para promover atentados contra alvos em Israel e que operações de prevenção estão sendo realizadas. Cidadãos israelenses, encontrados online, estariam sendo usados sem saber: 
+ &quot;Agentes iranianos oferecem a esses israelenses, identificados online, altos pagamentos por diversas tarefas - desde esconder dinheiro e telefones em diferentes locais em Israel, distribuir panfletos e escrever grafites, até incendiar veículos e atacar fisicamente pessoas. Em muitos casos, quando o contato é estabelecido, os agentes iranianos se apresentam inicialmente como empregadores que oferecem tarefas aparentemente inocentes em troca de pagamento, mas em pouco tempo as ‘tarefas’ solicitadas assumem um caráter perigoso de ameaça à segurança do estado e de seus cidadãos. O Shin Bet pede ao público ‘aumentar a atenção e tomar precauções em qualquer caso de suspeita&quot;, afirmou o comunicado da agência israelense. 
+ Neste sábado (28), ao anunciar a morte do chefe do grupo extremista Hezbollah, Sayyed Hassan Nasrallah, Netanyahu disse que o trabalho de Israel &quot;ainda não terminou&quot; e que &quot;dias desafiadores estão à frente&quot;. 
+ Em discurso na ONU, na sexta-feira (27), o primeiro-ministro israelense disse que Israel está vencendo a guerra e que busca a paz, mas que enfrentará inimigos como o Irã até o final. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/30/netanyahu-faz-ameacas-ao-regime-do-ira-nao-ha-lugar-no-oriente-medio-que-israel-nao-possa-alcancar.ghtml</data>
+      <data key="v_label">4</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n5">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel afirma que um tanque sob fogo inimigo colidiu com um posto da ONU no Líbano</data>
+      <data key="v_subtitle">Mais cedo, neste domingo, as forças da ONU afirmaram que dois tanques israelenses entraram &quot;à força&quot; em uma das suas posições perto da fronteira do Líbano com Israel.</data>
+      <data key="v_publication_date"> 13/10/2024 14h55 </data>
+      <data key="v_content"> O Exército israelense afirmou neste domingo (13) que um de seus tanques colidiu com um posto da ONU quando estava sob ataque no sul do Líbano, onde luta contra o movimento Hezbollah. 
+ &quot;Um tanque que tentava evacuar soldados feridos sob fogo recuou vários metros e colidiu com um posto de Unifil [Força Interina das Nações Unidas no Líbano]&quot;, que anunciou anteriormente que dois tanques israelenses haviam invadido uma de suas posições, disse um comunicado militar. 
+ Mais cedo, neste domingo, as forças da Unifil afirmaram que dois tanques israelenses entraram &quot;à força&quot; em uma das suas posições perto da fronteira do Líbano com Israel. 
+ &quot;Por volta das 04h30, quando as forças de manutenção da paz estavam nos abrigos, dois tanques Merkava do exército israelense destruíram o portão principal e entraram na posição à força&quot;, permanecendo lá durante &quot;cerca de 45 minutos&quot;, disse a Unifil em comunicado. 
+ Duas horas depois, acrescentaram que &quot;os disparos geraram fumaça&quot; causaram &quot;irritações cutâneas e reações gastrointestinais em 15 capacetes azuis, que estão recebendo cuidados médicos&quot;. 
+
+Ataque de Israel atinge base da ONU
+
+ Na sexta-feira (10), o quartel-general da ONU no Líbano já havia sido atingido por militares israelenses que abriram fogo contra o Hezbollah. Capacetes azuis que integram a missão de paz as Nações Unidas foram feridos. 
+ Os capacetes azuis são soldados das Forças de Paz da ONU. Em 1988, receberam o Nobel da Paz. Mesmo assim, as forças israelenses atiraram com artilharia pesada e armas portáteis em três posições do contingente italiano no sul do Líbano. 
+ Após soldados da Unifil serem alvejados, a Missão declarou que &quot;qualquer ataque deliberado às forças de manutenção da paz é uma violação grave do direito humanitário internacional e da resolução 1701 do Conselho de Segurança”. 
+ Leia mais 
+
+
+ Em Naqoura, uma das posições dos capacetes azuis, um tanque disparou contra uma torre de observação. Dois soldados – que são da Indonésia – ficaram feridos. O Exército de Israel confirmou a operação na região e declarou que instruiu as tropas da ONU a buscarem um local seguro antes de abrir fogo. 
+ O chefe da diplomacia europeia, Josep Borrell, condenou a ação como inadmissível. 
+ O ministro da Defesa da Itália, Guido Crosetto, considerou inaceitáveis os ataques israelenses aos soldados de paz. O ministro convocou com urgência o embaixador de Israel na Itália para formalizar o protesto do governo italiano. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/israel-afirma-que-um-tanque-sob-fogo-inimigo-colidiu-com-um-posto-da-onu-no-libano.ghtml</data>
+      <data key="v_label">5</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n6">
+      <data key="v_id">1</data>
+      <data key="v_title">Netanyahu pede para que ONU retire forças do sul do Líbano</data>
+      <data key="v_subtitle">Pelo menos cinco capacetes azuis (soldados das Forças de Paz da ONU) ficaram feridos nos últimos dias em combates entre o exército israelense e o movimento pró-iraniano Hezbollah na região.</data>
+      <data key="v_publication_date"> 13/10/2024 13h47 </data>
+      <data key="v_content"> O primeiro-ministro israelense, Benjamin Netanyahu, pediu neste domingo para que o secretário-geral da ONU, António Guterres, coloque &quot;imediatamente&quot; as forças de paz da organização no Líbano (Unifil) fora de perigo. 
+
+&quot;Senhor secretário-geral, coloque as forças da Unifil fora de perigo. Isso precisa ser feito agora, imediatamente&quot;, declarou Netanyahu em um discurso gravado, dirigindo-se a Guterres em inglês. 
+
+ Pelo menos cinco capacetes azuis (soldados das Forças de Paz da ONU) ficaram feridos nos últimos dias em combates entre o exército israelense e o movimento pró-iraniano Hezbollah no sul do Líbano. 
+ Neste domingo, as forças de manutenção da paz da ONU no Líbano afirmaram que dois tanques israelenses entraram &quot;à força&quot; em uma das suas posições perto da fronteira entre os dois países, palco de combates entre tropas israelenses e milicianos do Hezbollah.  
+ &quot;Por volta das 04h30, quando as forças de manutenção da paz estavam nos abrigos, dois tanques Merkava do exército israelense destruíram o portão principal e entraram na posição à força&quot;, permanecendo lá durante &quot;cerca de 45 minutos&quot;, disse a Unifil em comunicado. 
+ Duas horas depois, acrescenta, &quot;os disparos geraram fumaça&quot; que causou &quot;irritações cutâneas e reações gastrointestinais em 15 capacetes azuis, que estão recebendo cuidados médicos&quot;. 
+ Nesta semana, a Unifil também declarou que &quot;qualquer ataque deliberado às forças de manutenção da paz é uma violação grave do direito humanitário internacional e da resolução 1701 do Conselho de Segurança&quot;. 
+ LEIA TAMBÉM: 
+
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/netanyahu-forcas-sul-do-libano-onu.ghtml</data>
+      <data key="v_label">6</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n7">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel bombardeia centro de Beirute e mata 22; membro sênior do Hezbollah sobrevive ao ataque</data>
+      <data key="v_subtitle">Alvo do ataque era membro sênior do Hezbollah, segundo fontes de segurança ouvidas pela agência Reuters. Mais de 100 pessoas ficaram feridas. Os bairros centrais bombardeados por Israel nesta quinta (10) foram atingidos pela primeira vez.</data>
+      <data key="v_publication_date"> 10/10/2024 15h03 </data>
+      <data key="v_content"> Bombardeios israelenses em duas áreas diferentes no centro de Beirute, capital do Líbano, nesta quinta-feira (10) mataram 22 pessoas e deixaram ao menos 117 feridos, segundo o Ministério da Saúde libanês. 
+ O ataque teve como alvo pelo menos um membro sênior do Hezbollah, de acordo com fontes de segurança ouvidas pela agência Reuters. Ainda não se sabe quem eram os membros do Hezbollah que eram alvos de Israel. 
+
+
+ Segundo a agência Associated Press, um dos locais atingidos foi um prédio de oito andares no bairro de Ras al-Nabaa. O ataque atingiu a parte inferior do edifício e explosões continuavam ocorrendo dentro do edifício, informou um fotógrafo da AP. Um grande número de ambulâncias chegou ao local. 
+ O segundo ataque, na área de Burj Abi Haidar, derrubou um prédio inteiro, que foi tomado pelas chamas. 
+
+Após o ataque, três fontes de segurança disseram à Reuters que Wafiq Safa, um membro sênior do grupo extremista, sobreviveu à tentativa de assassinato israelense.
+
+ Um grande incêndio ardia nos locais atingidos enquanto equipes de resgate usavam lanternas manuais para procurar sobreviventes nos escombros, de acordo com vídeos transmitidos pela televisão al-Manar do Hezbollah. 
+ Israel ainda não se pronunciou sobre os ataques aéreos no centro de Beirute até a última atualização desta reportagem. Nas últimas semanas, Israel tem lançado ataques aéreos quase diários nos subúrbios do sul de Beirute, onde fica o QG do Hezbollah, mas ataques no centro de Beirute são raros. O bairros centrais bombardeados nesta quinta foram atingidos pela primeira vez por Israel. 
+ Israel justifica seus ataques dizendo que tem como alvo estruturas militares do grupo extremista, e geralmente emite ordens de evacuação para a população dos locais visados minutos antes de realizar bombardeios. 
+ Os bombardeios no centro de Beirute ocorrem enquanto o Exército israelense continua a atacar alvos do Hezbollah em todo o Líbano. Mais cedo, o Exército israelense emitiu novos avisos de evacuação para o sul da cidade, incluindo prédios específicos, e havia alertado os civis libaneses para não retornarem às suas casas no sul, a fim de evitar danos decorrentes dos combates. 
+
+Ataque a trabalhadores da ONU
+
+ Mais cedo, a Força Interina das Nações Unidas no Líbano (Unifil, em inglês) informou que dois de seus soldados da paz ficaram feridos quando um tanque israelense disparou contra uma torre de vigilância na sede principal da força em Ras al-Naqoura, atingindo a torre e causando a queda dos soldados. Não houve vítimas em outros dois incidentes, disse uma fonte da ONU. A ONU condenou o ataque israelense à sede da Unifil. 
+
+&quot;Qualquer ataque deliberado contra forças de paz é uma grave violação do direito humanitário internacional&quot;, disse a Unifil em um comunicado, acrescentando que estava em contato com o exército israelense.
+
+ O exército israelense declarou que suas tropas operaram na área de Naqoura, &quot;próximo a uma base da Unifil&quot;. Segundo o comunicado, o IDF instruiu as forças da ONU na área a permanecerem em espaços protegidos, e depois disso as tropas abriram fogo na região. Israel afirmou ainda que mantém comunicação rotineira com a Unifil. 
+ O Hezbollah afirmou que havia disparado uma salva de mísseis contra as forças israelenses na quinta-feira, enquanto estas tentavam retirar vítimas da área de Ras al-Naqoura, e que os soldados foram atingidos diretamente. 
+ Em Nova York, o embaixador de Israel na ONU, Danny Danon, disse que Israel estava focado em combater o Hezbollah e recomendou que &quot;a Unifil se desloque 5 km ao norte para evitar o perigo, à medida que os combates se intensificam&quot;. A Reuters informou na semana passada que o exército israelense havia enviado uma mensagem pedindo que as forças de paz da ONU se preparassem para se mover &quot;o mais rápido possível, para garantir sua segurança&quot;. 
+ Danon acrescentou que &quot;Israel não deseja estar no Líbano, mas fará o que for necessário&quot; para afastar o Hezbollah de sua fronteira norte, de modo que 70 mil residentes deslocados possam retornar às suas casas no norte de Israel. 
+ O conflito começou há um ano, quando o Hezbollah abriu fogo em apoio ao grupo militante palestino Hamas no início da guerra em Gaza. Ele se intensificou dramaticamente nas últimas semanas, com Israel bombardeando os subúrbios do sul de Beirute, o sul do Líbano e o Vale do Bekaa, antes de enviar forças terrestres. 
+ O Oriente Médio permanece em alerta máximo para uma nova escalada na região, aguardando a resposta de Israel a um ataque com mísseis iranianos em 1º de outubro. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/10/israel-bombardeia-centro-de-beirute.ghtml</data>
+      <data key="v_label">7</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n8">
+      <data key="v_id">1</data>
+      <data key="v_title">Biden diz que enviará militares e sistema de defesa contra mísseis Thaad para ‘defender Israel’</data>
+      <data key="v_subtitle">Equipamento que será operado por militares americanos pode atingir alvos fora dentro e fora da atmosfera.</data>
+      <data key="v_publication_date"> 13/10/2024 14h08 </data>
+      <data key="v_content"> Os EUA vão enviar militares americanos e um sistema de defesa antimísseis de grande altitude, o THAAD, para Israel. O anúncio foi feito neste domingo (13) pelo Pentágono (Departamento de Defesa dos EUA). 
+ O THAAD é um sistema de defesa antimísseis terrestres que pode ser transportado. Ele é altamente eficaz contra ameaças de curto e médio alcance. 
+ Embora seja utilizado para a defesa terrestre, o sistema também pode atingir alvos fora da atmosfera. 
+ O sistema será operado pelos militares americanos na defesa do país aliado contra eventuais ataques do Irã. 
+ O secretário de Defesa, Lloyd Austin, &quot;autorizou o envio de uma bateria de defesa de grande altitude (THAAD) e de uma equipe de militares americanos a Israel, que ajudarão a reforçar as defesas aéreas do país após os ataques sem precedentes do Irã&quot;, disse o porta-voz do Pentágono, general Pat Ryder. 
+
+Irã ataca Israel
+
+ Em 1º de outubro, o Irã atacou Israel com cerca de 200 mísseis balísticos. 
+ A ofensiva foi a primeira resposta do Irã desde a escalada nos conflitos entre Israel e o Hezbollah —grupo armado que atua no Líbano e que é financiado pelo regime iraniano. 
+ A maior parte dos mísseis atingiu Tel Aviv, onde uma série de explosões foi registrada. 
+ Como Israel e Irã não dividem fronteira, um eventual conflito aberto entre os países poderia acontecer pelo ar, com o uso de jatos, caças e outras aeronaves e o lançamento de mísseis. O bombardeio realizado pelo Irã no começo de outubro é um exemplo. 
+
+Ataque de Israel atinge base da ONU
+
+ Na sexta-feira (10), militares israelenses abriram fogo contra o Hezbollah no Líbano e atingiram o quartel-general da missão de paz da ONU, onde ficam os capacetes azuis. 
+ Os capacetes azuis são soldados das Forças de Paz da ONU. Em 1988, receberam o Nobel da Paz. Mesmo assim, as forças israelenses atiraram com artilharia pesada e armas portáteis em três posições do contingente italiano no sul do Líbano. 
+ Soldados da Unifil (Força Interina das Nações Unidas no Líbano) foram alvejados. E a Unifil declarou que &quot;qualquer ataque deliberado às forças de manutenção da paz é uma violação grave do direito humanitário internacional e da resolução 1701 do Conselho de Segurança”. 
+ Em Naqoura, uma das posições dos capacetes azuis, um tanque disparou contra uma torre de observação. Dois soldados – que são da Indonésia – ficaram feridos. O Exército de Israel confirmou a operação na região e declarou que instruiu as tropas da ONU a buscarem um local seguro antes de abrir fogo. 
+ O chefe da diplomacia europeia, Josep Borrell, condenou a ação como inadmissível. 
+ O ministro da Defesa da Itália, Guido Crosetto, considerou inaceitáveis os ataques israelenses aos soldados de paz. O ministro convocou com urgência o embaixador de Israel na Itália para formalizar o protesto do governo italiano. 
+
+Tanques de Israel em base da ONU
+
+ Neste domingo, as forças da Unifil afirmaram que dois tanques israelenses entraram &quot;à força&quot; em uma das suas posições perto da fronteira do Líbano com Israel. 
+ &quot;Por volta das 04h30, quando as forças de manutenção da paz estavam nos abrigos, dois tanques Merkava do exército israelense destruíram o portão principal e entraram na posição à força&quot;, permanecendo lá durante &quot;cerca de 45 minutos&quot;, disse a Unifil em comunicado. 
+ Duas horas depois, acrescenta, &quot;os disparos geraram fumaça&quot; que causou &quot;irritações cutâneas e reações gastrointestinais em 15 capacetes azuis, que estão recebendo cuidados médicos&quot;. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/biden-diz-que-enviara-sistema-de-defesa-para-isreal.ghtml</data>
+      <data key="v_label">8</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n9">
+      <data key="v_id">1</data>
+      <data key="v_title">Coreia do Norte diz que forças na fronteira estão de prontidão em meio a conflito por drones</data>
+      <data key="v_subtitle">Nas últimas semanas, desertores e ativistas na Coreia do Sul têm enviado pacotes de ajuda para o Norte e panfletos criticando o líder Kim Jong Un. Governo norte-coreano culpou o exército do sul por essa prática e tem lançado balões repletos de lixo em represália.</data>
+      <data key="v_publication_date"> 13/10/2024 14h36 </data>
+      <data key="v_content"> As unidades de artilharia norte-coreanas próximas da fronteira com a Coreia do Sul estão de prontidão para disparar por conta de embates com drones que Pyongyang afirma estarem cruzando a fronteira, disse a imprensa estatal norte-coreana neste domingo (13). 
+ Nas últimas semanas, alguns desertores e ativistas na Coreia do Sul enviaram pacotes de ajuda para o Norte e lançaram panfletos criticando o líder Kim Jong Un. 
+ A Coreia do Norte culpou o exército sul-coreano por essa prática e também tem lançado balões repletos de lixo ao Sul em represália. 
+ Em junho, a Pyongyang enviou centenas de balões com sacos repletos de lixo, como cigarro, papel higiênico e fezes, para o Sul, depois que ativistas sul-coreanos lançaram balões com pendrives de música K-pop, notas de dólares e material de propaganda contra o líder Kim Jong Un. 
+ A resposta do Norte levou o presidente da Coreia do Sul, Yoon Suk Yeol, a suspender um acordo militar de distensão assinado com Pyongyang em 2018, quando os países tinham uma relação melhor. 
+ Desde o fim da Guerra da Coreia (1950-1953) com um armistício, as duas Coreias permanecem tecnicamente em guerra e estão separadas por uma zona desmilitarizada. O acordo de 2018 pretendia reduzir as tensões na península e evitar uma escalada militar, em particular ao longo da fronteira. 
+ A agência de notícias estatal norte-coreana KCNA citou o porta-voz do ministério da defesa dizendo que Pyongyang acredita em que mais drones devem sobrevoar a capital nos próximos dias e que instruiu o exército do país a se preparar para todos os cenários, incluindo conflito. 
+ Na sexta-feira, a Coreia do Norte também acusou a Coreia do Sul de enviar drones para Pyongyang durante a noite nesta semana e na semana passada, acrescentando que tal intrusão demandava uma ação retaliatória. 
+ LEIA TAMBÉM: 
+
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/coreia-do-norte-forcas-prontidao-conflito-por-drones.ghtml</data>
+      <data key="v_label">9</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n10">
+      <data key="v_id">1</data>
+      <data key="v_title">Míssil do Hezbollah disparado contra Tel Aviv é interceptado por Israel; ataque de forças israelenses deixa 72 mortos</data>
+      <data key="v_subtitle">É a primeira vez que um projétil disparado pelo grupo extremista chega à cidade, considerada o centro econômico do país. </data>
+      <data key="v_publication_date"> 25/09/2024 00h54 </data>
+      <data key="v_content"> Sirenes de alerta soaram em Tel Aviv e em áreas do Centro de Israel na madrugada desta quarta-feira (25). A cidade é o principal centro econômico do país. Os sistemas de defesa aérea interceptaram um míssil sobre a cidade. 
+ Segundo o Hezbollah, o alvo do ataque era a sede do Mossad, a agência do serviço secreto tida responsável pelo ataque a pagers e walkie-talkies do grupo extremista. 
+ As Forças de Defesa de Israel (FDI) afirmam ter bombardeado o Líbano em resposta. O Ministério da Saúde libanês confirmou 72 mortos e 392 feridos em decorrência dos ataques israelenses nesta quarta. 
+
+
+ Israel disse que o ataque do Hezbollah em seu território não deixou vítimas. Na região central de Israel, as sirenes de alerta soaram em cidades como Netanya. 
+ Segundo a agência de notícias oficial do governo libanês, Israel realizou bombardeios aéreos nesta quarta em áreas do Sul do país, do Leste e ao norte da capital, Beirute. &quot;A planície de Machghara e os arredores de Sahmar e Midoun, no oeste de Bekaa, foram submetidos a um ataque violento.&quot; 
+ Leia também: 
+
+
+ As Forças de Defesa de Israel informaram que após o ataque libanês, a Força Aérea do país atingiu o local de onde o ataque foi lançado, na área de Nafakhiyeh, no Líbano. 
+ De acordo com a FDI, havia &quot;terroristas operando dentro da infraestrutura&quot;. O local armazena armamentos do Hezbollah. &quot;Após o ataque, explosões secundárias foram identificadas, indicando a presença de grandes quantidades de armamentos dentro das instalações atingidas.&quot; 
+ Também houve ataques ao norte de Beirute, na cidade de Maysara, um enclave xiita localizado na região montanhosa de Kesruan, de maioria cristã. A cidade fica a cerca de 25 km da capital. 
+ O Exército israelense afirmou ainda que seus caças interceptaram um veículo aéreo não tripulado que partiu da Síria. A interceptação aconteceu ao Sul do Mar da Galileia. 
+ As FDI anunciaram a mobilização de mais duas brigadas de reservistas na fronteira norte do país. 
+
+Morte de comandante do Hezbollah
+
+ Na terça-feira (24), um ataque aéreo israelense matou um comandante sênior do Hezbollah que era responsável por mísseis e foguetes do grupo extremista. Ibrahim Qubaisi foi morto em Beirute, capital do Líbano. 
+ A informação da morte de Qubaisi foi confirmada pelo Hezbollah e pelas Forças de Defesa de Israel. Segundo a agência Reuters, duas fontes de segurança no Líbano descreveram o comandante como uma figura importante no grupo extremista — que também tem disparado centenas de mísseis e foguetes contra Israel nos últimos dias. 
+ Segundo o governo do Líbano, 569 pessoas foram mortas e 1.835 ficaram feridas desde que Israel iniciou ataques contra o país, na segunda-feira (23) — dia mais sangrento desde a guerra de 2006. Entre os mortos estão 50 crianças. 
+ O Líbano pediu ajuda dos Estados Unidos para parar o conflito entre Israel e Hezbollah. O grupo extremista, apoiado pelo Irã, tem atuação política e controla algumas regiões do país. 
+
+Israel &apos;não deseja&apos; invadir o Líbano
+
+ Israel &quot;não deseja&quot; realizar uma invasão do território do Líbano, afirmou o embaixador israelense nas Nações Unidas, Danny Danon, nesta terça-feira. A fala ocorreu em meio à escalada de tensões entre Israel e o grupo extremista Hezbollah. 
+
+&quot;Temos experiência passada no Líbano. Não desejamos iniciar qualquer tipo de invasão naquele território&quot;, disse Danon.
+
+ Israel e Hezbollah trocam agressões desde o início da guerra na Faixa de Gaza, entre israelenses e o grupo terrorista palestino Hamas, aliado do grupo libanês. As tensões se acirraram após explosões de pagers e de walkie-talkies de membros do Hezbollah no Líbano, que deixaram mais de 30 mortos e mais de 3.000 feridos. 
+ Diante de um temor da eclosão de uma &quot;guerra total&quot; entre Israel e Hezbollah, líderes mundiais têm pedido por uma desescalada no conflito, que poderia trazer ainda mais estabilidade ao Oriente Médio. O presidente dos Estados Unidos, Joe Biden, disse à Assembleia Geral da ONU que &quot;uma guerra total não interessa a ninguém&quot;. Os EUA são os maiores aliados de Israel. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/25/sirenes-alerta-israel-ataque-aereo.ghtml</data>
+      <data key="v_label">10</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n11">
+      <data key="v_id">1</data>
+      <data key="v_title">Brasileira consegue voo para sair do Líbano após ataques de Israel: &apos;Meu coração fica aqui&apos;</data>
+      <data key="v_subtitle">Fatima Cheaitou tinha pedido ajuda para sair do país com a família; ela deixou o Líbano na noite de quarta-feira (25). Bombardeios se intensificaram na segunda-feira (23).</data>
+      <data key="v_publication_date"> 26/09/2024 01h58 </data>
+      <data key="v_content"> A brasileira Fatima Cheaitou, que mora com a família no Líbano, conseguiu passagens aéreas para deixar o sul do país em meio aos ataques de Israel à região, que se intensificaram na segunda-feira (23). Ela fez publicações no Instagram direto do Aeroporto de Beirute, capital do país, na noite de quarta-feira (25), pelo horário de Brasília. 
+
+&quot;A gente conseguiu passagens de última hora, graças a Deus. Estou feliz que a gente vai conseguir sair daqui, mas estou muito triste, porque não quero sair daqui. Não queria que a gente tivesse nessa situação de precisar sair daqui, sair dessa forma, fugindo, sair sem saber quando vai voltar, se vai voltar, se todo mundo vai estar aqui ainda&quot;, contou em um vídeo. 
+
+
+
+ Assim como Fatima e a família, milhares de libaneses estão fugindo do país por conta dos bombardeios. Em pânico, as pessoas têm buscado uma área segura para se proteger. Assim que os ataques se intensificaram, ela deixou o sul do país e enfrentou longos congestionamentos a caminho da capital. 
+ Com voos sendo cancelados em toda região, ela estava sem saber como conseguiria viajar até o Brasil e pediu ajuda. No vídeo gravado no aeroporto, ela explicou que havia poucos voos saindo de lá. &quot;Aeroporto está vazio, um voo só agora. É muito depressivo&quot;, disse. 
+ Fatima explicou que conseguiu as passagens duas horas antes de chegar ao aeroporto. &quot;A gente guardou nossas coisas e veio. A família vai viajar em voos diferentes. Eles vão primeiro para Paris e depois viajarão para o Brasil, pois não havia voo direto. 
+
+&quot;Desde que a gente chegou ao aeroporto comecei a chorar. Antes estava no modo &apos;preciso sobreviver&apos; e não estava pensando muito em tudo. Eu sou muito grata por estar viva, por ter a oportunidade de sair daqui. Só que meu coração fica aqui&quot;, afirmou.
+
+ Os tios e avós dela ficarão no Líbano. Segundo a brasileira, eles estão mais ao norte do país e seguros até o momento. &quot;Mas tem a preocupação de que a guerra piore, escale e acabe bombardeando lá também. Nesses últimos dias destruíram todas as cidades, minha cidade está destruída. é horrível&quot;, relatou. 
+ Mesmo diante da situação, ela reforçou que não gostaria de ter que deixar o país, mas mantém a fé de que voltará logo. &quot;Vai dar tudo certo&quot;, disse. 
+ Fatima tem mais de 70 mil seguidores no Instagram e de 125 mil no YouTube em perfis onde mostra um pouco da cultura mulçumana. Ela, inclusive, gravou um vídeo durante o deslocamento até a capital libanesa. Veja abaixo. 
+ Na terça, após receber muitas mensagens de preocupação, Fatima contou que chegou em segurança a Beirute após 10 horas de deslocamento — o normal seriam 2 horas —, pediu orações e agradeceu pelos compartilhamentos. No começo da semana, bombas caíram perto da casa dela e dos avós. 
+ &quot;Hoje acordamos com muitas, muitas bombas. A gente está fugindo. Bombardearam perto da minha casa, da casa dos meus avós. Então, quem puder marcar, fazer pressão no Instagram do governo para eles fazerem alguma coisa... Sei lá. Por favor&quot;, postou na segunda, marcando os perfis do presidente Lula e do Itamaraty. 
+ Na terça, o governo brasileiro anunciou que começou a reunir dados de brasileiros e parentes de primeiro grau que estão no Líbano, seja como turistas ou como residentes, e desejam receber &quot;apoio do governo&quot;. 
+ Leia também: 
+
+
+
+Destruição e mortes
+
+ A troca de ataques entre Israel e o Hezbollah continuou na quarta-feira (25) e, nas redes sociais, vários vídeos mostraram a destruição causada pela ofensiva israelense, que já deixou mais de 550 mortos e 1,8 mil feridos, de acordo com o governo libanês. 
+ As imagens, feitas pela população, no sul do Líbano e também na capital, Beirute — que foi alvo de bombardeios na terça-feira — mostram edifícios, carros e ruas que foram atingidos por mísseis cobertos de escombros e fumaça, além de resgates de moradores que ficaram presos nos escombros. 
+ Na quarta, sirenes de alerta soaram em Tel Aviv e em áreas do Centro de Israel durante a madrugada. Os sistemas de defesa aérea interceptaram um míssil sobre a cidade. Segundo o Hezbollah, o alvo do ataque era a sede do Mossad, a agência do serviço secreto tida responsável pelo ataque a pagers e walkie-talkies do grupo extremista. 
+ As Forças de Defesa de Israel (FDI) afirmaram ter bombardeado o Líbano em resposta. O Ministério da Saúde libanês confirmou 72 mortos e 392 feridos em decorrência dos ataques israelenses na quarta. 
+
+Israel X Hezbollah
+
+ Israel afirmou que está conduzindo uma operação militar na fronteira com o Líbano para que moradores da região possam voltar para casa. Esses israelenses deixaram a área por causa de ataques do grupo extremista Hezbollah, que atua no Líbano. 
+ Hezbollah e Israel possuem um histórico de desavenças, que já resultou em uma guerra em 2006. O conflito na região voltou a se intensificar em outubro de 2023. À época, o grupo terrorista Hamas invadiu Israel, o que resultou na morte e sequestro de civis. 
+ Em resposta, Israel declarou guerra contra o Hamas e bombardeou a Faixa de Gaza. Desde então, o Hezbollah vem lançando foguetes contra Israel para demonstrar apoio ao grupo terrorista e aos moradores de Gaza. 
+ Na semana passada, pagers e walkie-talkies usados por membros do Hezbollah explodiram em uma ação coordenada. Em seguida, Israel anunciou que estava movendo tropas para a região de fronteira com o Líbano. 
+ Israel também lançou uma série de bombardeios contra o Líbano, justificando que estava atacando estruturas do Hezbollah. 
+ Diante disso, a ONU levantou preocupações sobre uma guerra total no Oriente Médio. 
+ &quot;O Líbano está à beira do precipício. O povo do Líbano, o povo de Israel e o povo do mundo não podem permitir que o Líbano se torne outra Gaza&quot;, disse o Secretário-Geral da ONU, António Guterres. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/26/brasileira-libano-voo-sair-do-pais-ataques-de-israel.ghtml</data>
+      <data key="v_label">11</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n12">
+      <data key="v_id">1</data>
+      <data key="v_title">Premiê do Líbano diz que Israel está matando civis e exige cessar-fogo; Israel afirma não querer guerra total</data>
+      <data key="v_subtitle">Najib Mikati disse que hospitais do Líbano estão sobrecarregados com civis feridos. Representante de Israel alegou que militares estão fazendo ataques de precisão contra o Hezbollah.</data>
+      <data key="v_publication_date"> 25/09/2024 21h02 </data>
+      <data key="v_content"> O primeiro-ministro do Líbano, Najib Mikati, afirmou que Israel está matando civis por meio de bombardeios contra o território libanês. O premiê discursou durante a reunião do Conselho de Segurança da ONU para discutir a crise no Oriente Médio, nesta quarta-feira (25). 
+
+
+ Nos últimos dias, Israel e o grupo extremista libanês Hezbollah têm trocado ataques, resultando em bombardeios e mortes de civis no Líbano. Entenda o contexto mais abaixo. 
+ Mikati afirmou que, enquanto Israel diz estar atacando apenas estruturas do Hezbollah, os hospitais libaneses estão sobrecarregados com civis feridos, incluindo mulheres. 
+
+&quot;Os libaneses rejeitam a guerra e acreditam na estabilidade. Israel nunca parou de violar as resoluções adotadas pela ONU. O Líbano não está pedindo por caridade&quot;, afirmou.
+
+ O primeiro-ministro libanês disse ainda que o país está tendo a soberania violada pelas ações militares de Israel contra o Hezbollah. Mikati pediu um cessar-fogo imediato. 
+ Na sequência, o enviado de Israel nas Nações Unidas, Danny Danon, disse que o país está exercendo o direito de se defender. Danon lembrou que o Hezbollah está disparando mísseis e foguetes contra cidades israelenses. 
+ O representante de Israel também garantiu que as Forças de Defesa de Israel estão executando ataques com &quot;precisão&quot; contra alvos do Hezbollah. 
+
+&quot;Israel não quer uma guerra total&quot;, afirmou.
+
+ Danon ainda acusou o Irã de ser a &quot;aranha no centro da teia de violência&quot; no Oriente Médio. Para o israelense, não haverá paz na região até que &quot;a ameaça seja desfeita&quot;. O Irã apoia o Hezbollah. 
+ O primeiro-ministro de Israel, Benjamin Netanyahu, deve chegar nos Estados Unidos na quinta-feira (26). No dia seguinte, ele deve discursar na Assembleia Geral da ONU, em Nova York. 
+ LEIA TAMBÉM 
+
+
+
+Israel x Hezbollah
+
+ Israel afirmou que está conduzindo uma operação militar na fronteira com o Líbano para que moradores da região possam voltar para casa. Esses israelenses deixaram a área por causa de ataques do grupo extremista Hezbollah, que atua no Líbano. 
+ Hezbollah e Israel possuem um histórico de desavenças, que já resultou em uma guerra em 2006. O conflito na região voltou a se intensificar em outubro de 2023. À época, o grupo terrorista Hamas invadiu Israel, o que resultou na morte e sequestro de civis. 
+ Em resposta, Israel declarou guerra contra o Hamas e bombardeou a Faixa de Gaza. Desde então, o Hezbollah vem lançando foguetes contra Israel para demonstrar apoio ao grupo terrorista e aos moradores de Gaza. 
+ Na semana passada, pagers e walkie-talkies usados por membros do Hezbollah explodiram em uma ação coordenada. Em seguida, Israel anunciou que estava movendo tropas para a região de fronteira com o Líbano. 
+ Israel também lançou uma série de bombardeios contra o Líbano, justificando que estava atacando estruturas do Hezbollah. 
+ Diante disso, a ONU levantou preocupações sobre uma guerra total no Oriente Médio. 
+
+&quot;O Líbano está à beira do precipício. O povo do Líbano, o povo de Israel e o povo do mundo não podem permitir que o Líbano se torne outra Gaza&quot;, disse o Secretário-Geral da ONU, António Guterres.
+
+
+VÍDEOS: mais assistidos do g1
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/25/primeiro-ministro-do-libano-diz-que-israel-esta-matando-civis-e-pede-cessar-fogo-israel-afirma-nao-querer-guerra-total.ghtml</data>
+      <data key="v_label">12</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n13">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel anuncia morte do chefe do Hezbollah; grupo extremista diz que &apos;batalha continua&apos;</data>
+      <data key="v_subtitle">Segundo o porta-voz militar Avichay Adraee, Sayyed Hassan Nasrallah morreu após ataque israelense nos subúrbios ao sul de Beirute, no Líbano.</data>
+      <data key="v_publication_date"> 28/09/2024 05h17 </data>
+      <data key="v_content"> As Forças de Israel informaram neste sábado (28) que o chefe do Hezbollah , Sayyed Hassan Nasrallah, está morto. Segundo o porta-voz militar de língua árabe, Avichay Adraee, Nasrallah morreu após o ataque israelense de sexta-feira ( 27), nos subúrbios ao sul de Beirute, no Líbano. 
+ A morte também foi confirmada pelo grupo extremista nesta manhã. Ao anunciar a morte de Nasrallah, o Hezbollah prometeu continuar a batalha contra Israel. 
+
+
+ De acordo com o porta-voz militar, Nasrallah vinha aterrorizando Israel há décadas e foi um dos terroristas mais influentes do mundo. Ele acrescentou que sob a chefia do terrorista, o Líbano se tornou uma base armada. 
+ Avichay Adraee informou também outros comandantes importantes do Hezbollah estavam reunidos com Nasrallah no momento dos ataques israelenses e que todos podem ter morrido. 
+ Segundo o porta-voz, o bombardeio israelense tinha como objetivo atingir Nasrallah. Um oficial do governo afirmou ainda que a missão era neutralizar a ameaça que o grupo oferece. 
+ Israel vê Nasrallah como &quot;insubstituível&quot; e acredita que a morte do chefe do Hezbollah pode enfraquecer o grupo. 
+ No entanto, o grupo afirmou que a batalha contra Israel continua. O grupo extremista Hamas, aliado do Hezbollah, disse que a morte de Nasrallah &quot;apenas fortalece a resistência&quot;. 
+ O tenente-coronel Nadav Shoshani afirmou que Israel está em alerta máximo para um conflito mais amplo, após a eliminação do líder do Hezbollah. 
+
+&quot;Esperamos que isso mude as ações do Hezbollah&quot;, disse Shoshani.
+
+ O militar disse também que ainda há um caminho a percorrer para degradar as capacidades do Hezbollah. &quot;Temos visto o Hezbollah realizar ataques contra nós por um ano. É seguro assumir que eles continuarão realizando seus ataques contra nós ou tentarão&quot;, disse. 
+ O bombardeio de sexta a Beirute deixou seis pessoas mortas e outras 91 feridas, segundo o Ministério da Saúde do Líbano. O ataque aconteceu pouco tempo depois de o primeiro-ministro de Israel, Benjamin Netanyahu, discursar na ONU. 
+ Na madrugada de sábado (28), pelo horário local — noite de sexta-feira (27), no Brasil — novas explosões foram reportadas em Beirute. Israel afirmou que estava bombardeando alvos com armamento do Hezbollah. 
+ Neste sábado, sirenes soaram em Tel Aviv e em outras áreas do Centro de Israel devido a um míssil lançado do Iêmen pelas forças houtis, segundo agências de notícias. Os rebeldes houtis, assim como o Hezbollah, são financiados pelo Irã. O míssil balístico teria sido interceptados pelos sistemas de defesa, e não há relatos de feridos. 
+ LEIA TAMBÉM 
+
+
+
+700 mortes
+
+ Só nesta semana, 700 pessoas morreram no Líbano em ataques, segundo as autoridades do país. Além dos seis mortos no bombardeio a Beirute, outras 25 pessoas perderam a vida em ataques no sul do país, incluindo quatro crianças. 
+ Do outro lado, as forças israelenses disseram que o Hezbollah lançou mísseis contra a cidade de Haifa, a terceira maior de Israel. 
+ Ainda em Israel, milhares de pessoas que vivem no norte do país tiveram de deixar suas casas por conta dos lançamentos de mísseis e foguetes pelo Hezbollah — o governo israelense prometeu que a nova fase no conflito só terminará quando os moradores conseguirem retornar com segurança. 
+ Netanyahu rejeitou na quinta uma proposta de cessar-fogo de 21 dias conjunta feita por diversos países, entre eles os Estados Unidos, o Reino Unido e os Emirados Árabes. 
+
+Líder do Irã diz que Líbano fará Israel se arrepender
+
+ O líder supremo do Irã, Ali Khamenei, disse neste sábado que o Líbano fará Israel &quot;se arrepender&quot; dos ataques em série promovidos contra o país desde semana passada, informou a agência de notícias Reuters. 
+ Khamenei disse que é obrigação de todo muçulmano apoiar o povo do Líbano e o Hezbollah &quot;com quaisquer meios que tenham&quot; e ajudar a confrontar o &quot;regime usurpador, opressivo e perverso&quot; de Israel. 
+
+&quot;Pela graça de Deus, o Líbano fará o inimigo invasor, perverso e desacreditado (de Israel) se arrepender de suas ações&quot;, disse.
+
+ Há um grande temor pelo mundo de que o Irã se envolva nesta nova etapa da guerra no Oriente Médio para combater o avanço de Israel contra os países árabes. 
+ &quot;Todas as forças na região estão ao lado e apoiam o Hezbollah. Deixe os criminosos saberem que eles são muito insignificantes para causar qualquer dano grave à forte estrutura do Hezbollah no Líbano&quot;, disse Khamenei. 
+ Ele ainda não falou nada sobre a morte do chefe do Hezbollah 
+
+VÍDEOS: mais assistidos do g1
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/28/chefe-do-hezbollah-esta-morto-diz-israel.ghtml</data>
+      <data key="v_label">13</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n14">
+      <data key="v_id">1</data>
+      <data key="v_title">Netanyahu diz que trabalho de Israel &apos;ainda não terminou&apos; e que &apos;dias desafiadores estão à frente&apos;</data>
+      <data key="v_subtitle">Primeiro-ministro de Israel afirmou que morte de Hassan Nasrallah era um passo necessário para mudar o equilíbrio de poder no Oriente Médio.</data>
+      <data key="v_publication_date"> 28/09/2024 16h13 </data>
+      <data key="v_content"> O primeiro-ministro de Israel, Benjamin Netanyahu, disse que o trabalho do país &quot;ainda não terminou&quot;, após o exército confirmar a morte do chefe do grupo extremista Hezbollah, Sayyed Hassan Nasrallah, neste sábado (28). 
+ Nasrallah foi morto em um ataque nesta sexta-feira (27), nos subúrbios ao sul de Beirute, no Líbano. Ele comandava o Hezbollah desde 1992 e era considerado uma figura importante no Oriente Médio. 
+ Além do chefe do grupo, as Forças de Defesa de Israel afirmaram que &quot;eliminaram&quot; outros nove líderes do Hezbollah. 
+
+&quot;A eliminação de Nasrallah é um passo necessário para mudar o equilíbrio de poder no Oriente Médio&quot;, afirmou o primeiro-ministro. E completou: &quot;Nosso trabalho não terminou, dias desafiadores estão à frente&quot;.
+
+ Netanyahu disse que Nasrallah era o &quot;principal motor do eixo do mal do Irã&quot; e o classificou como &quot;não um terrorista, mas o terrorista&quot;. Na visão do primeiro-ministro de Israel, a eliminação do dirigente permitirá &quot;avançar&quot; na libertação dos reféns sequestrados em Israel e levados para a Faixa de Gaza. 
+ &quot;Acertamos nossas contas com o responsável pelo assassinato de inúmeros israelenses e muitos cidadãos de outros países, incluindo centenas de americanos e dezenas de franceses&quot;, disse Netanyahu. 
+ Segundo o primeiro-ministro, enquanto o &quot;terrorista&quot; continuasse vivo, ele poderia &quot;restaurar rapidamente as capacidades do Hezbollah&quot; que Israel havia enfraquecido em uma série de operações recentes. &quot;Então, dei a ordem, e Nasrallah não está mais entre nós&quot;, declarou. 
+ &quot;Estamos determinados a continuar atingindo nossos inimigos.&quot; 
+ Mais cedo, um porta-voz das Forças de Defesa de Israel disse que o país deve promover novos ataques no Líbano para atingir estruturas do Hezbollah. 
+ LEIA TAMBÉM 
+
+
+
+O que está acontecendo
+
+ Israel e Hezbollah vem trocando ataques mais intensamente há uma semana, que já deixaram mais de 700 mortos no Líbano e provocaram o mais êxodo do país desde a guerra de 2006, também entre Israel e Hezbollah. 
+ O Exército de Israel informou que enviou duas brigadas para o norte de Israel e está acionando três batalhões da reserva para uma possível incursão terrestre no Líbano. Por enquanto, porém, essa incursão não foi confirmada. 
+ Apesar das mortes e dos milhares de desabrigados, o Ministro da Defesa de Israel, Yoav Gallant, disse, neste sábado, que a guerra não é contra o povo libanês. 
+
+&quot;Ele (Nasrallah) foi o assassino de milhares de israelenses e cidadãos estrangeiros. Ele era uma ameaça imediata às vidas de milhares de israelenses e outros cidadãos&quot;, declarou o ministro. &quot;Ao povo do Líbano, eu digo: Nossa guerra não é com vocês. É hora de mudar.&quot;
+
+ Os conflitos no Oriente Médio começaram em 7 de outubro do ano passado, quando o grupo extremista Hamas, da Faixa de Gaza, atacou uma festa rave em Israel e outros pontos do país, deixando mais de 1.200 mortos e sequestrando centenas de israelenses. 
+ Israel passou a atacar a Faixa de Gaza na sequência, alegando que o alvo eram integrantes do Hamas. No entanto, os ataques que ocorrem desde então devastaram a região da e deixaram mais de 40 mil palestinos mortos, a grande maioria de civis. 
+ Em apoio ao Hamas, o Hezbollah também começou a atacar Israel ainda no ano passado. O conflito entre o exército israelense e o grupo libanês permanece desde então, mas se intensificou na semana passada, após explosões em série de pagers e walkie-talkies de membros do Hezbollah, que acusam Israel pelo ataque. 
+ *Com informações da agência de notícias Reuters </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/28/netanyahu-diz-que-trabalho-de-israel-ainda-nao-terminou-e-que-dias-desafiadores-estao-a-frente.ghtml</data>
+      <data key="v_label">14</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n15">
+      <data key="v_id">1</data>
+      <data key="v_title">&apos;Estamos vencendo&apos;, diz Netanyahu na ONU; delegações abandonam Assembleia Geral em protesto </data>
+      <data key="v_subtitle">Premiê ameaçou Irã, indicou que seguirá ataques no Líbano e afirmou estar pronto para um &apos;governo civil local&apos; em Gaza. Ele foi vaiado no início de sua fala, na semana de discursos dos 193 líderes de países da ONU. Ataques de Israel ao Hezbollah completaram uma semana nesta sexta, com mais de 700 mortes.</data>
+      <data key="v_publication_date"> 27/09/2024 10h42 </data>
+      <data key="v_content"> O primeiro-ministro de Israel, Benjamin Netanyahu, disse nesta sexta-feira (27) que Israel está vencendo a guerra e que busca a paz, mas que enfrentará inimigos como o Irã até o final. 
+
+&quot;Não há nenhum lugar no Irã que Israel não posssa alcançar&quot;, disse o líder israelense, em discurso na Assembleia Geral da ONU. 
+
+ A fala do premiê de Israel, atualmente em guera na Faixa de Gaza e no Líbano, era uma das mais esperadas da Assembleia Geral, em que líderes dos 193 países da ONU fazem discursos. Quando ele foi chamado na sessão, dezenas de membros de delegações abandonaram o plenário da ONU (veja vídeo abaixo), e houve aplausos e vaias. O presidente da sessão teve de pedir silêncio.  
+ O premiê disse desejar &quot;a bênção de uma reconciliação histórica entre árabes e judeus&quot;, mas indicou que seguirá com os bombardeios no Líbano. &quot;Enquanto o Hezbollah escolher o caminho da guerra, Israel não tem outra opção. O Hezbollah tem nos atacado de maneira impiedosa há 20 anos&quot;, afirmou, em referência a foguetes que o grupo extremista lança constantemente contra o norte de Israel. 
+ Israel vem bombardeando regiões do Líbano há uma semana, em uma nova página do conflito no Oriente Médio que já deixou mais de 700 mortos. O governo israelense afirma que o alvo é o Hezbollah, grupo extremista financiado pelo Irã que nasceu no Líbano com o intuito de lutar contra Israel. 
+ Sem mencionar a proposta feita pelos Estados Unidos, seu principal aliado, sobre um cessar-fogo no conflito contra o Hezbollah, alegou que está lutando também pelo Ocidente. 
+ &quot;Não estamos só nos defendendo. Também estamos defendendo vocês contra um inimigo comum que ameaça nosso modelo de vida&quot;, discursou, em referência ao Irã. &quot;Israel vem tolerando essa situação intolerável por quase um ano. Bem, eu vim aqui hoje para dizer que já chega&quot;, disse. 
+
+&quot;Eu não pretendia vir aqui este ano. Meu país está em guerra, lutando por sua sobrevivência. Mas depois de ouvir mentiras contra meu país por muitos aqui, resolvi vir&quot;, disse. &quot;Israel busca a paz, torce pela paz, e vai tornar a fazer a paz. No entanto, enfrentamos um inimigo selvagem e precisamos combatê-lo&quot;. 
+
+ No discurso, ele acusou o Irã de ter bombardeado Israel diretamente pela primeira vez, com mísseis lançados na quinta-feira (26) direto do território iraniano. E disse que está preparado para uma guerra contra o país. &quot;Se vocês atacarem a gente, nós te atacaremos&quot;, afirmou. 
+ A delegação do Irã foi uma das que se levantaram do plenário antes do início do discurso de Netanyahu. 
+ O premiê afirmou no discurso que, em quase um ano de guerra na Faixa de Gaza, Israel já matou ou capturou &quot;mais da metade dos 40.000 soldados do Hamas&quot; e afirmou estar &quot;pronto para apoiar uma administração civil local comprometida com a paz&quot;. 
+ &quot;Essa guerra pode ter um fim agora. Tudo o que falta é que o Hamas se renda, entregue as armas e devolva os reféns&quot;, afirmou. &quot;Não queremos ver uma só pessoa, uma só pessoa inocente, morrer. Isso é sempre uma tragédia&quot;. 
+ Citou ainda uma passagem na Bíblia que diz que &quot;a alternativa de Israel não falhará&quot;. &quot;Essa promessa antiga sempre foi mantida, e seguirá sempre mantida&quot;. 
+ &quot;Ano passado, eu disse aqui que enfrentamos a mesma escolha atemporal que Moisés colocou diante do povo de Israel há milhares de anos, quando estávamos prestes a entrar na terra prometida. Moisés nos disse que nossas ações determinarão se deixaremos às gerações futuras uma bênção ou uma maldição, e essa é a escolha que enfrentamos hoje, a maldição da agressão incessante do Irã, ou a bênção de uma reconciliação histórica entre árabes e judeus. 
+ LEIA MAIS: 
+
+
+
+Uma semana de ataques 
+
+ Nove pessoas de uma mesma família morreram em um bombardeio à cidade de Shebaa, no sul do Líbano, nesta sexta-feira (27), que deixou 25 mortos no total. Quatro delas eram crianças, segundo o prefeito da cidade, Mohammad Saab. 
+ Do outro lado, as Forças Armadas de Israel disseram que o Hezbollah lançou mísseis contra a cidade de Haifa, a terceira maior de Israel e que virou alvo do grupo extremista desde o início da escalada dos conflitos entre as duas partes. 
+
+A escalada da troca de ataques entre Israel e o Hezbollah — que já acontecia de forma constante desde o início da guerra na Faixa de Gaza, há quase um ano — ocorreu após explosões em série de pagers e walkie-talkies de membros do Hezbollah, que acusam Israel pelo ataque. 
+
+ A escalada provocou também um êxodo sem precendetes no Líbano desde a guerra de 2006. Nesta sexta-feira, a ACNUR, a agência da ONU para refugiados, afirmou que mais de 30 mil pessoas de diferentes regiões do Líbano fugiram para a vizinha Síria nas últimas 72 horas. 
+ Outros milhares de pessoas também tentam deixar o país, mas dezenas de companhias aéreas cancelaram operações nos aeroportos libaneses. O Itamaraty disse esta semana que está consultando brasileiros que queiram deixar o Líbano para estudar a repatriação ao Brasil — há 21 mil cidadãos brasileiros morando no Líbano, a maior comunidade brasileira no Oriente Médio. 
+ Nesta sexta-feira, o irmão do brasileiro de 15 anos que morreu junto com o pai durante um dos bombardeios israelenses no Líbano chegou ao Brasil e relatou o momento em que a família foi atingida pelo ataque. &quot;Não dava para respirar&quot;, disse ele no aeroporto de Foz do Iguaçu a jornalistas (veja vídeo abaixo). 
+ Do lado de Israel, milhares de pessoas no norte tiveram de deixar suas casas por conta dos lançamentos de mísseis e foguetes pelo Hezbollah — o governo israelense prometeu que a nova fase só terminará quando os moradores conesguirem retornar com segurança. 
+ Por isso, o primeiro-ministro, Benjamin Netanyahu, rejeitou na quinta-feira (26) uma proposta de cessar-fogo conjunta feita por diversos países, entre eles os Estados Unidos, o Reino Unido e os Emirados Árabes. 
+ Em outra frente de ataque também nesta sexta, as forças israelenses mataram cinco soldados sírios em um bombardeio na região fronteira entre o Líbano e a Síria. A informação foi divulgada pela agência de notícias estatal da Síria. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/27/netanyahu-fala-na-onu.ghtml</data>
+      <data key="v_label">15</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n16">
+      <data key="v_id">1</data>
+      <data key="v_title">Mulher que assassinou pais e conviveu com corpos por quatro anos é condenada à prisão perpétua </data>
+      <data key="v_subtitle">A prisão de Virginia McCullough foi feita somente no ano passado, quatro anos depois dos assassinatos. </data>
+      <data key="v_publication_date"> 13/10/2024 12h59 </data>
+      <data key="v_content"> Uma mulher de 36 anos foi condenada à prisão perpétua no Reino Unido, após matar os pais e esconder os corpos na casa em que viviam. 
+ A sentença foi proferida pela Justiça inglesa na última sexta-feira (11). O juiz afirmou que, apesar de sintomas de distúrbios psicológicos apresentados por Virginia McCullough na época do crime, a sua culpabilidade não poderia ser reduzida. 
+ 🔎 O que aconteceu? O crime havia ocorrido na cidade de Essex, localizado na região sudeste da Inglaterra, em junho de 2019. Virginia McCullough envenenou o pai, John McCullough, de 70 anos, com um coquetel de remédios prescritos e esfaqueou a mãe, Lois McCullough, de 71. 
+ Segundo os autoridades, a mulher britânica construiu uma &quot;tumba improvisada&quot; para o seu pai em um cômodo da residência. Depois, colocou o corpo da mãe em um saco de dormir, escondendo-o em um armário no andar superior da casa. 
+ Mas a prisão de Virginia McCullough foi feita somente no ano passado -- quatro anos depois dos assassinatos. 
+ Durante a batida policial, registrada por câmeras corporais, a mulher confessa o crime com tranquilidade e chega a dizer aos agentes para &quot;se animarem&quot;, porque eles tinham conseguido pegar o &quot;vilão&quot;. 
+
+Manipulação dos pais e contração de dívidas
+
+ Segundo o Tribunal de Justiça de Essex, os assassinatos haviam sido planejados com três meses de antecedência. 
+ Documentos coletados na residência mostram que a mulher usava os salários de aposentadoria e os cartões de crédito dos pais para assumir diversos gastos, tendo se beneficiado de cerca de £ 140 mil (um pouco mais de R$ 1 milhão). 
+ Entre as dívidas, há mais de £ 20 mil em apostas online. 
+ Virgina McCullough manipulava os pais a acreditarem que as dívidas haviam sido provocadas pela ação de golpistas, quando, na verdade, ela era a responsável pelo ato. 
+ Segundo o juiz, as mentiras e o temor de ser descoberta a fizeram cometer o crime. 
+ Veja também: 
+
+Pai, mãe e filha são mortos a tiros e facadas em casa em SP
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/mulher-que-assassinou-pais-e-conviveu-com-corpos-por-quatro-anos-e-condenada-a-prisao-perpetua.ghtml</data>
+      <data key="v_label">16</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n17">
+      <data key="v_id">1</data>
+      <data key="v_title">Por que tantos trabalhadores chineses estão sendo mortos ou sequestrados pelo mundo?</data>
+      <data key="v_subtitle">Mais de 500 mil chineses trabalham atualmente em projetos no exterior. São muitos os casos de morte e sequestro.</data>
+      <data key="v_publication_date"> 13/10/2024 05h00 </data>
+      <data key="v_content"> Dois cidadãos chineses foram mortos no último domingo (6) e várias outras pessoas ficaram feridas do lado de fora do aeroporto de Karachi, no Paquistão, no que se acredita ter sido um ataque suicida. 
+ O Exército de Libertação do Baluchistão (ELB) assumiu a responsabilidade. Trata-se do mais recente de muitos ataques já realizados contra trabalhadores chineses no Paquistão e em outros países nos últimos anos. 
+ Há mais de meio milhão de trabalhadores chineses empregados em projetos de desenvolvimento em todo o mundo - muitos deles em áreas politicamente voláteis - e muitos já foram mortos ou sequestrados. 
+
+Com que frequência trabalhadores chineses vêm sendo atacados no Paquistão?
+
+ Em 6 de outubro, dois cidadãos chineses que eram parte de um grupo que atuava na construção de usinas de energia em Port Qasim, perto de Karachi, foram mortos por uma bomba instalada em um veículo, próximo ao aeroporto da cidade. Pelo menos outras 10 pessoas ficaram feridas. 
+ O ELB disse que tinha &quot;como alvo um grupo de alto nível de engenheiros e investidores chineses&quot; que chegava do aeroporto, no que disseram ser um ataque suicida. 
+ O primeiro-ministro do Paquistão, Shehbaz Sharif, classificou o ataque como um &quot;ato hediondo&quot; e o Ministério das Relações Exteriores disse que &quot;não ficaria impune&quot;. 
+ O ELB trava uma luta de longa data por um território para o povo balúchi. 
+ Os dois cidadãos chineses mortos trabalhavam pelo desenvolvimento de Port Qasim, perto de Karachi, na província de Sindh, no Paquistão. 
+ O ELB também admitiu ter atacado uma base aérea naval próxima do porto de Gwadar, no Baluchistão, em março, que está sendo construída por empresas chinesas. 
+ Além de três acadêmicos chineses e o motorista paquistanês que os acompanhava em um ataque suicida próximo ao Instituto Confúcio (administrado por chineses), na Universidade de Karachi, em abril de 2022. 
+ Para o ELB , o povo balúchi não tem recebido uma parcela justa da riqueza trazida pelo investimento estrangeiro na província, ou da extração de minerais (como petróleo) por empresas estrangeiras em sua área. 
+
+Quantos cidadãos chineses trabalham no exterior e por quê?
+
+ Há cerca de 568 mil chineses trabalhando em projetos administrados por empresas chinesas no exterior, de acordo com dados do Ministério do Comércio de 2022 (os mais recentes disponíveis). 
+ Eles atuam principalmente em projetos que fazem parte da Iniciativa Cinturão e Rota da Seda (ICRS). 
+ Estima-se que US$ 1 trilhão foram gastos em projetos da ICRS para projetos de infraestrutura como ligações rodoviárias e ferroviárias, portos e usinas de energia. 
+ O objetivo é criar novas rotas para as exportações da China e aprofundar os laços comerciais com os países parceiros. 
+ O Paquistão abriga um dos maiores projetos da ICRS: o Corredor Econômico China-Paquistão. Nele está uma série de ligações rodoviárias e ferroviárias da fronteira ocidental da China, através do Paquistão, até o porto de Gwadar no Mar Arábico. 
+ Assim como o Paquistão, muitos países do continente africano, como Quênia, Etiópia e Senegal, pegaram bilhões de dólares emprestados da China para melhorar infraestrutura de transporte e energia. 
+ Mas é frequente a reclamação dos moradores dos países que recebem esses projetos de que as empresas oferecem poucos empregos a eles — a maior parte do trabalho fica com cidadãos chineses. 
+
+&quot;A população local em países africanos se ressente disso&quot;, diz o professor Steve Tsang do Instituto SOAS China em Londres.
+
+ &quot;As empresas trazem muitos trabalhadores chineses, e há uma sensação de que empregam africanos apenas nos trabalhos com as condições mais duras&quot;, disse ele à BBC. 
+ &quot;A China diz que seu investimento no exterior é um ganha-ganha&quot;, diz Alex Vines, da Chatham House, um think tank de relações exteriores com sede no Reino Unido. 
+ &quot;Mas deu os empregos a trabalhadores chineses para resolver o problema do desemprego na China&quot;, disse ele à BBC. 
+
+Quão perigoso é para funcionários chineses trabalhar no exterior?
+
+ Os investimentos da China no exterior levaram os trabalhadores chineses para alguns dos países mais perigosos do mundo, e até zonas ativas de conflito. 
+ O Paquistão, por exemplo, é considerado um dos países mais instáveis ​​politicamente, segundo um ranking do Banco Mundial. 
+ O correspondente do Serviço Mundial da BBC em Karachi, Riaz Sohail, diz que houve 16 ataques ligados a projetos de desenvolvimento chineses por lá, que resultaram em 12 cidadãos chineses mortos e 16 feridos. 
+ Isso inclui a morte, em março de 2024, de cinco engenheiros chineses que trabalhavam na barragem hidrelétrica de Dasu na região de Bisham, em Khyber Pakhtunkhwa — uma área altamente volátil no noroeste do país. 
+ Em novembro de 2018, homens armados mataram pelo menos quatro pessoas em um ataque ao consulado chinês em Karachi. 
+ Ninguém assumiu a responsabilidade pelos ataques. 
+ Na África, houve vários ataques a funcionários chineses que trabalham nas minas de ouro na República Democrática do Congo, em uma região onde a violência política por grupos militantes armados é abundante. 
+ Em julho de 2024, seis cidadãos chineses e pelo menos dois soldados congoleses foram baleados em uma mina de ouro no nordeste do Congo, parcialmente de propriedade de uma empresa chinesa, informou a agência de notícias Reuters na época. 
+ Os responsáveis seriam membros de uma milícia chamada Cooperativa para o Desenvolvimento do Congo. Trata-se de um dos vários grupos que disputam o controle de terras e recursos naturais na região. 
+ Em janeiro de 2022, na Nigéria, homens armados teriam sequestrado três trabalhadores chineses no canteiro de obras de uma barragem no estado de Níger que estava sendo construída pela empresa estatal chinesa Sinohydro. 
+ De acordo com um relatório do Peterson Institute for International Economics (PIEE), dos EUA, grupos armados na África e no sudeste da Ásia muitas vezes acham lucrativo sequestrar cidadãos chineses porque esperam que os empregadores paguem grandes resgates para tê-los de volta. 
+ Nas duas décadas entre perder o poder no Afeganistão e retomar o controle, era comum o Talibã sequestrar trabalhadores estrangeiros chineses para pedir resgate em troca. 
+
+Como a China tenta proteger os trabalhadores no exterior?
+
+ De acordo com o PIEE, o governo chinês e as empresas chinesas têm, até aqui, &quot;pagado resgates para garantir a libertação, pressionado autoridades locais a fornecer melhor segurança e exportado tecnologia de vigilância para ajudar a identificar e interditar possíveis extremistas&quot;. 
+ A China também está treinando forças armadas nos países que recebem os projetos para que eles possam fornecer melhor segurança. E as empresas chinesas têm cada vez mais contratado empresas privadas para combater homens-bomba, atiradores e sequestradores. 
+
+&quot;Mas há limites para o que Pequim pode razoavelmente esperar que os países anfitriões façam&quot;, diz o relatório do PIEE. &quot;O investimento estrangeiro direto (IED) chinês tem como alvo países com um estado de direito mais fraco.&quot;
+
+ Após o último ataque no Paquistão, a embaixada chinesa no país lembrou seus cidadãos e empresas chinesas no Paquistão para ficarem atentos e &quot;para tomar precauções de segurança&quot;. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/10/13/por-que-tantos-trabalhadores-chineses-estao-sendo-mortos-ou-sequestrados-pelo-mundo.ghtml</data>
+      <data key="v_label">17</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n18">
+      <data key="v_id">1</data>
+      <data key="v_title">Coreia do Norte envia mais balões com lixo para o Sul e ameaça com novas ações de &apos;neutralização&apos;</data>
+      <data key="v_subtitle">Há semanas, os dois países travam uma &quot;guerra&quot; de balões, com envios de lixo e fezes do lado norte-coreano, e notas de dólar, pen drives com k-pop e panfletos políticos por parte de ativistas sul-coreanos. </data>
+      <data key="v_publication_date"> 10/06/2024 08h39 </data>
+      <data key="v_content"> A Coreia do Norte voltou a enviar centenas de balões repletos de lixo para o Sul, anunciou o Exército sul-coreano nesta segunda-feira (10). 
+ Há semanas, os dois países travam uma &quot;guerra&quot; de balões, com envios de lixo e fezes do lado norte-coreano, e notas de dólar, pen drives com k-pop e panfletos políticos por parte de ativistas sul-coreanos. 
+
+
+ O governo norte-coreano ainda não havia confirmado o envio até a última atualização desta reportagem, mas a influente irmã de Kim Jong-un disse que seu país continuaria a enviar os artefatos em resposta a Seul -- na semana passada, ativistas sul-coreanos e chamou a guerra de balões entre os dois países. 
+ Nas últimas semanas, a Coreia do Norte enviou centenas de balões com sacos repletos de lixo, como cigarro, papel higiênico e fezes, para o Sul, depois que ativistas sul-coreanos lançaram balões com pendrives de música K-pop, notas de dólares e material de propaganda contra o líder Kim Jong Un. 
+ A resposta do Norte levou o presidente da Coreia do Sul, Yoon Suk Yeol, a suspender na semana passada um acordo militar de distensão assinado com Pyongyang em 2018, quando os países tinham uma relação melhor. 
+ Desde o fim da Guerra da Coreia (1950-1953) com um armistício, as duas Coreias permanecem tecnicamente em guerra e estão separadas por uma zona desmilitarizada. O acordo de 2018 pretendia reduzir as tensões na península e evitar uma escalada militar, em particular ao longo da fronteira. 
+ Agora, a suspensão permite que Seul retome os exercícios de tiro e as campanhas de propaganda contra o regime do Norte, com alto-falantes na fronteira, uma técnica iniciada durante a guerra. 
+ A medida enfureceu Pyongyang, que alertou que Seul estava criando uma &quot;nova crise&quot;. 
+ Nesta segunda-feira, Kim Yo Jong, irmã do líder norte-coreano Kim Jong Un e porta-voz do governo, afirmou em um comunicado que a Coreia do Sul &quot;sofrerá o amargo constrangimento de recolher papel usado sem descanso, e essa será sua tarefa diária&quot;. 
+ No comunicado, divulgado pela agência estatal de notícias KCNA, ela descreveu o lançamento de panfletos por ativistas sul-coreanos como &quot;guerra psicológica&quot; e afirmou que, caso Seul não os interrompa e pare transmitir mensagens por seus alto-falantes, o Norte responderá com &quot;novas ações de neutralização&quot;. 
+
+Uma reposta &apos;além da imaginação&apos;
+
+ O Exército sul-coreano afirmou que o Norte lançou mais de 300 balões com lixo durante a noite, mas que o vento prejudicou a operação de Pyongyang. 
+ &quot;Enviaram mais de 310 balões, mas muitos deles voaram na direção da Coreia do Norte&quot;, destacou o comandante do Estado-Maior. Ele disse que quase 50 atingiram o território sul-coreano e que outros podem chegar ao país. 
+ Segundo as Forças Armadas, as últimas séries de balões contêm resíduos de papel e plástico, mas nada tóxico. 
+ &quot;Até o momento, não vimos nenhum movimento especial por parte do Exército norte-coreano&quot;, disse um oficial do Estado-Maior sul-coreano, ao mesmo tempo que admitiu que o comunicado mais recente de Kim Jo Yong tem um nível de ameaça diferente dos anteriores. 
+ &quot;Mas, em qualquer caso, o Exército (sul-coreano) responderá de modo suficiente a qualquer nova contramedida norte-coreana&quot; acrescentou. 
+ Para Kim Dong-yub, professor na Universidade de Estudos da Coreia do Norte em Seul, o comunicado da irmã de Kim Jong Un mostra que Pyongyang &quot;está levantando a voz para culpar a Coreia do Sul pela situação atual e, também, para justificar a sua provocação&quot;. 
+ A escalada pode continuar e &quot;a Coreia do Norte fará algo que vai além da nossa imaginação, como espalhar farinha, o que causaria pânico absoluto na Coreia do Sul&quot;, cujos habitantes acreditariam estar sob ataque biológico, completou o professor. </data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/06/10/coreia-do-norte-envia-mais-baloes-com-lixo-para-o-sul-e-ameaca-com-novas-acoes-de-neutralizacao.ghtml</data>
+      <data key="v_label">18</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <node id="n19">
+      <data key="v_id">1</data>
+      <data key="v_title">Israel mata comandante do Hezbollah responsável por mísseis e foguetes</data>
+      <data key="v_subtitle">Ibrahim Qubaisi foi morto durante um bombardeio na capital do Líbano, nesta terça-feira (24). Fontes de segurança disseram que comandante era uma figura influente.</data>
+      <data key="v_publication_date"> 24/09/2024 20h08 </data>
+      <data key="v_content"> Um ataque aéreo israelense matou um comandante sênior do Hezbollah que era responsável por mísseis e foguetes do grupo extremista. Ibrahim Qubaisi foi morto em Beirute, capital do Líbano, nesta terça-feira (24). 
+
+
+ A informação da morte de Qubaisi foi confirmada pelo Hezbollah e pelas Forças de Defesa de Israel. Segundo a agência Reuters, duas fontes de segurança no Líbano descreveram o comandante como uma figura importante no grupo extremista. 
+ O Exército de Israel disse que a Força Aérea realizou &quot;extensos ataques&quot; contra alvos do Hezbollah no sul do Líbano. Os bombardeios atingiram depósitos de armas e dezenas de lançadores que estavam direcionados para o território israelense. 
+ &quot;O Hezbollah de hoje não é o mesmo Hezbollah que conhecíamos há uma semana. Sofreram uma série de golpes em seu comando, seus combatentes e seus meios de luta&quot;, disse o ministro da Defesa de Israel, Yoav Gallant. 
+ Ainda nesta terça-feira, o Hezbollah disse que lançou foguetes contra uma base militar e outra naval. O Exército israelense afirmou que sirenes tocaram no início da noite na cidade de Safed, no norte do país. 
+ Segundo o governo do Líbano, 569 pessoas foram mortas e 1.835 ficaram feridas desde que Israel iniciou ataques contra o país, na segunda-feira (23). Entre os mortos estão 50 crianças. 
+ O Líbano pediu ajuda dos Estados Unidos para parar o conflito entre Israel e Hezbollah. O grupo extremista tem atuação política e controla algumas regiões do país. 
+ LEIA TAMBÉM 
+
+
+
+Israel x Hezbollah
+
+ Israel afirmou que está conduzindo uma operação militar na fronteira com o Líbano para que moradores da região possam voltar para casa. Esses israelenses deixaram a área por causa de ataques do grupo extremista Hezbollah, que atua no Líbano. 
+ Hezbollah e Israel possuem um histórico de desavenças, que já resultou em uma guerra em 2006. O conflito na região voltou a se intensificar em outubro de 2023. À época, o grupo terrorista Hamas invadiu Israel, o que resultou na morte e sequestro de civis. 
+ Em resposta, Israel declarou guerra contra o Hamas e bombardeou a Faixa de Gaza. Desde então, o Hezbollah vem lançando foguetes contra Israel para demonstrar apoio ao grupo terrorista e aos moradores de Gaza. 
+ Na semana passada, pagers e walkie-talkies usados por membros do Hezbollah explodiram em uma ação coordenada. Em seguida, Israel anunciou que estava movendo tropas para a região de fronteira com o Líbano. 
+ Israel também lançou uma série de bombardeios contra o Líbano, justificando que estava atacando estruturas do Hezbollah. 
+ Diante disso, a ONU levantou preocupações sobre uma guerra total no Oriente Médio. 
+
+&quot;O Líbano está à beira do precipício. O povo do Líbano, o povo de Israel e o povo do mundo não podem permitir que o Líbano se torne outra Gaza&quot;, disse o Secretário-Geral da ONU, António Guterres.
+
+
+VÍDEOS: mais assistidos do g1
+</data>
+      <data key="v_name">https://g1.globo.com/mundo/noticia/2024/09/24/israel-mata-comandante-do-hezbollah-responsavel-por-misseis-e-foguetes.ghtml</data>
+      <data key="v_label">19</data>
+      <data key="v_size">30</data>
+      <data key="v_color">lightblue</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n3" target="n10">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n3" target="n11">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n3" target="n12">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n4" target="n13">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n4" target="n14">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n6" target="n16">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n6" target="n17">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n9" target="n18">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+    <edge source="n10" target="n19">
+      <data key="e_arrow_size">0.5</data>
+      <data key="e_arrow_width">1</data>
+      <data key="e_color">gray</data>
+    </edge>
+  </graph>
+</graphml>
