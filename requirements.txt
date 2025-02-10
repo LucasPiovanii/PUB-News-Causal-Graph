@@ -2,3 +2,4 @@ selenium
 python-igraph
 pycairo
 cairocffi
+networkx
