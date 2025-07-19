@@ -16,9 +16,13 @@ def scrape_news(url, link_queue):
 
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CLASS_NAME, "content-head__title"))
-        )
+        try:
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "content-head__title"))
+            )
+        except TimeoutException:
+            print(f"Página sem título encontrada: {url}. Ignorando.")
+            return None
 
         title = driver.find_element(By.CLASS_NAME, "content-head__title").text
 
@@ -30,7 +34,13 @@ def scrape_news(url, link_queue):
         except TimeoutException:
             subtitle = "Sem subtítulo disponível"
 
-        publication_date = driver.find_element(By.TAG_NAME, "time").text
+        try:
+            # Para casos em que a notícia não tem data de publicação
+            publication_date = WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.TAG_NAME, "time"))
+            ).text
+        except TimeoutException:
+            publication_date = "Sem data disponível"
 
         # Encontrar todos os links na página e adicionar à fila
         num_direct_related_links = process_links(driver, link_queue, url)

@@ -21,11 +21,12 @@ def create_graph(initial_news, link_queue):
         publication_date=initial_news.publicationDate,
         content=initial_news.content
     )
+
     url_to_vertex[initial_news.url] = 0 # Primeiro link = id 0
     processed_urls.add(initial_news.url) # Marca a URL inicial como processada
 
     current_vertex = 1  
-    max_vertices = 100 # Limite para teste
+    max_vertices = 1000 # Limite para teste
 
     # Fila auxiliar para controlar a sequência de processamento
     pending_news = [(initial_news, 0)] # Par com a notícia e o índice do vértice no grafo
@@ -38,15 +39,21 @@ def create_graph(initial_news, link_queue):
         for _ in range(current_news.numDirectRelatedLinks):
             if link_queue.empty() or current_vertex >= max_vertices:
                 break
-            
+
             next_url = link_queue.get()
-            
+
             # Verifica se o URL já foi processada
             if next_url in processed_urls:
                 continue
-            
-            news = scrape_news(next_url, link_queue)
-            
+
+            try:
+                news = scrape_news(next_url, link_queue)
+            except Exception as e:
+                print(f"Erro ao processar {next_url}: {e}. Ignorando.")
+                continue
+
+            if news is None:
+                continue
             # Adiciona a nova notícia como vértice no grafo com atributos, incluindo o id
             graph.add_vertex(
                 id=news.id,
@@ -58,13 +65,15 @@ def create_graph(initial_news, link_queue):
             )
             url_to_vertex[news.url] = current_vertex
             processed_urls.add(news.url) # Marca a nova URL como processada
-            
+
             # Cria uma aresta apontando para a notícia atual
             graph.add_edge(current_news_vertex_id, current_vertex)
-            
+
             # Adiciona a nova notícia para ser processada depois
             pending_news.append((news, current_vertex))
-            
+
+            print(f"Nó {current_vertex} de {max_vertices}: {news.url}")
+
             current_vertex += 1
 
     return graph

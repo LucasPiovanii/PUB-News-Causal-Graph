@@ -27,15 +27,6 @@ def process_links(driver, link_queue, original_url):
                     num_direct_related_links += 1
 
         except StaleElementReferenceException:
-            # Tratar casos de StaleElementReferenceException
-            # Obs: não entendi muito bem por que precisa disso, mas tava travando sem e precisei gepetar :(
-            link = driver.find_element(By.TAG_NAME, "a")
-            href = link.get_attribute("href")
-            if href:
-                href_no_fragment = href.split('#')[0]
-                href_base = href_no_fragment.split("/noticia/")[0] + "/noticia/"
-                if href_base == base_url and href_no_fragment != original_url and href_no_fragment not in link_queue.queue:
-                    link_queue.put(href_no_fragment)
-                    num_direct_related_links += 1
+            continue  # Apenas ignora e segue para o próximo link
 
     return num_direct_related_links
