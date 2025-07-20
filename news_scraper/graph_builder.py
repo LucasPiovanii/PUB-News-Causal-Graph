@@ -6,7 +6,7 @@ import pickle
 from .scraper import scrape_news
 
 # Função que processa a fila de links e a transforma num grafo direcionado com relação entre as notícias
-def create_graph(initial_news, link_queue):
+def create_graph(initial_news, link_queue, skipped_news):
     graph = ig.Graph(directed=True)
     
     url_to_vertex = {} # Dicionário para mapear URLs a IDs de vértices no grafo
@@ -26,7 +26,7 @@ def create_graph(initial_news, link_queue):
     processed_urls.add(initial_news.url) # Marca a URL inicial como processada
 
     current_vertex = 1  
-    max_vertices = 1000 # Limite para teste
+    max_vertices = 3000 # Limite para teste
 
     # Fila auxiliar para controlar a sequência de processamento
     pending_news = [(initial_news, 0)] # Par com a notícia e o índice do vértice no grafo
@@ -50,10 +50,13 @@ def create_graph(initial_news, link_queue):
                 news = scrape_news(next_url, link_queue)
             except Exception as e:
                 print(f"Erro ao processar {next_url}: {e}. Ignorando.")
+                skipped_news[0] += 1
+                print(f"Soma de notícias esquivadas: {skipped_news[0]}")
                 continue
 
             if news is None:
                 continue
+
             # Adiciona a nova notícia como vértice no grafo com atributos, incluindo o id
             graph.add_vertex(
                 id=news.id,

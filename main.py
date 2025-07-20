@@ -7,8 +7,8 @@ from news_scraper.graph_plotter import configure_and_plot_graph
 from news_scraper.graph_builder import create_graph, convert_igraph_to_networkx
 import pickle
 
-# url = "https://g1.globo.com/mundo/noticia/2024/10/15/a-estrategia-dos-eua-no-oriente-medio-pressionar-israel-enfraquecer-o-hezbollah-e-eleger-novo-presidente-libanes.ghtml"
-url = "https://g1.globo.com/mundo/noticia/donald-trump-faz-seu-primeiro-discurso-na-assembleia-geral-da-onu.ghtml"
+# url = "https://g1.globo.com/mundo/noticia/2024/10/15/a-estrategia-dos-eua-no-oriente-medio-pressionar-israel-enfraquecer-o-hezbollah-e-eleger-novo-presidente-libanes.ghtml" # URL Hezbollah
+# url = "https://g1.globo.com/mundo/noticia/donald-trump-faz-seu-primeiro-discurso-na-assembleia-geral-da-onu.ghtml" # URL Trump
 
 # Fila para armazenar os links presentes na página
 link_queue = Queue()
@@ -17,7 +17,10 @@ link_queue = Queue()
 news = scrape_news(url, link_queue)
 
 # Cria o grafo de relação entre as notícias
-graph_igraph = create_graph(news, link_queue)
+skipped_news = [0]
+graph_igraph = create_graph(news, link_queue, skipped_news)
+print(f"Total skipped news: {skipped_news[0]}")
+print(f"Grafo com {len(graph_igraph.vs)} vértices")
 
 # Plota o grafo numa imagem (apenas para visualização)
 configure_and_plot_graph(graph_igraph)
@@ -25,7 +28,7 @@ configure_and_plot_graph(graph_igraph)
 # Converte o grafo para networkx para salvar em .gpickle
 graph_networkx = convert_igraph_to_networkx(graph_igraph)
 
-output_file = "graph_gpicke/grafo_1000.gpickle"
+output_file = "graph_gpicke/grafo_3000.gpickle"
 with open(output_file, "wb") as f:
     pickle.dump(graph_networkx, f)
 print(f"Grafo salvo com sucesso em {output_file}")

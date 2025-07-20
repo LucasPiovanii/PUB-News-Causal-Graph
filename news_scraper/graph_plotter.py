@@ -3,7 +3,7 @@
 import os
 from igraph import plot
 
-def configure_and_plot_graph(graph, output_file="grafo_1000.png"):
+def configure_and_plot_graph(graph, output_file="grafo_3000.png"):
     # Diretório para salvar as imagens
     output_directory = "graph_images"
     
