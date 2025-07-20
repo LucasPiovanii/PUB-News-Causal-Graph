@@ -79,6 +79,11 @@ def create_graph(initial_news, link_queue, skipped_news):
 
             current_vertex += 1
 
+        # Verifica se a fila auxiliar ficou vazia antes de atingir o limite
+        if not pending_news and current_vertex < max_vertices:
+            print("A lista de notícias a serem processadas ficou vazia. Processo encerrado antes de atingir o limite de vértices.")
+            break
+
     return graph
 
 # Função que converte um grafo igraph para networkx
