@@ -7,7 +7,7 @@ from news_scraper.graph_plotter import configure_and_plot_graph
 from news_scraper.graph_builder import create_graph, convert_igraph_to_networkx
 import pickle
 
-url = "https://g1.globo.com/mundo/noticia/2024/10/15/a-estrategia-dos-eua-no-oriente-medio-pressionar-israel-enfraquecer-o-hezbollah-e-eleger-novo-presidente-libanes.ghtml" # URL Hezbollah (5000 vértices)
+url = "https://g1.globo.com/mundo/noticia/2024/10/15/a-estrategia-dos-eua-no-oriente-medio-pressionar-israel-enfraquecer-o-hezbollah-e-eleger-novo-presidente-libanes.ghtml" # URL Hezbollah (5000 e 3000 vértices)
 # url = "https://g1.globo.com/mundo/noticia/donald-trump-faz-seu-primeiro-discurso-na-assembleia-geral-da-onu.ghtml" # URL Trump (1000 vértices)
 
 # Fila para armazenar os links presentes na página

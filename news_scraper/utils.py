@@ -27,6 +27,6 @@ def process_links(driver, link_queue, original_url):
                     num_direct_related_links += 1
 
         except StaleElementReferenceException:
-            continue  # Apenas ignora e segue para o próximo link
+            continue # Apenas ignora e segue para o próximo link, a fim de não interromper o processamento
 
     return num_direct_related_links

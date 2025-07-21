@@ -48,10 +48,10 @@ def create_graph(initial_news, link_queue, skipped_news):
 
             try:
                 news = scrape_news(next_url, link_queue)
-            except Exception as e:
-                print(f"Erro ao processar {next_url}: {e}. Ignorando.")
-                skipped_news[0] += 1
-                print(f"Soma de notícias esquivadas: {skipped_news[0]}")
+            except Exception as e:                                       # Ignorar exceções durante o scraping
+                print(f"Erro ao processar {next_url}: {e}. Ignorando.")  # é necessário para evitar que todo o
+                skipped_news[0] += 1                                     # processo seja interrompido por um erro
+                print(f"Soma de notícias esquivadas: {skipped_news[0]}") # (geralmente a soma é baixa, cerca de 10)
                 continue
 
             if news is None:
